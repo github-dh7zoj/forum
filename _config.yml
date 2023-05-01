@@ -90,7 +90,7 @@ service-worker: true
 # Friends
 friends: [
 {title: "定海七中OJ",href: "https://dh7zoj.top/"},
-{title: "定海七中OH-Docs",href: "https://docs.dh7zoj.top/"},
+{title: "定海七中OJ-Docs",href: "https://docs.dh7zoj.top/"},
 {title: "阿里云",href: "https://www.aliyun.com/"}
 ]
 
