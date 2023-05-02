@@ -46,22 +46,26 @@ myhkload = typeof myhkload === "undefined" ? false : myhkload === "true";
 myhkload = myhkload && typeof myhkfeed !== "undefined" && (new Date).getTime() - parseInt(myhkfeed) < 1e3;
 if (/(iPhone|iPod|iPad|Android|ios|Nokia|Black Berry|MIDP|Phone)/i.test(navigator.userAgent) && mobiles < 1 && window.location.href.indexOf("//myhkw") < 0) {
     $("#myhkplayer").hide();
-    throw new Error("音乐播放器已禁止在移动端加载！");
+    throw new Error("明月浩空音乐播放器已禁止在移动端加载！");
 } else {
     if (myhkload && window.location.href.indexOf("//myhkw") < 0) {
         $("#myhkplayer").hide();
-        throw new Error("音乐播放器已在其他页面加载！");
+        throw new Error("明月浩空音乐播放器已在其他页面加载！");
     } else {
         var songSheetList;
         if ($("#myhk").attr("src").replace("player/js/player.js", "").indexOf("myhkw.cn") > 0) {
             var webURL = "https://myhkw.cn/";
             var keyId = $("#myhk").attr("key");
-            console.log("\n %c 调用音乐播放器V.20230418 - " + keyId + "，当前网站： %c https://forum.dh7zoj.top\n", "color: #fadfa3; background: #030307; padding:5px 0;", "background: #fadfa3; padding:5px 0;");
+            console.log("\n %c 本站自豪的采用明月浩空音乐播放器V.20230418 - " + keyId + "，控制面板： %c https://myhkw.cn\n", "color: #fadfa3; background: #030307; padding:5px 0;", "background: #fadfa3; padding:5px 0;");
         } else {
             if ($("#myhk").attr("src").replace("player/js/player.js", "").indexOf("myhkw.com") > 0) {
                 var webURL = "https://myhkw.cn/";
                 var keyId = $("#myhk").attr("key");
-                console.log("\n %c 调用音乐播放器V.20230418 - " + keyId + "，当前网站： %c https://forum.dh7zoj.top\n", "color: #fadfa3; background: #030307; padding:5px 0;", "background: #fadfa3; padding:5px 0;");
+                console.log("\n %c 本站自豪的采用明月浩空音乐播放器V.20230418 - " + keyId + "，控制面板： %c https://myhkw.cn\n", "color: #fadfa3; background: #030307; padding:5px 0;", "background: #fadfa3; padding:5px 0;");
+            } else {
+                var webURL = "https://myhkw.cn/";
+                var keyId = "pirated-website";
+                console.log("\n %c 本站卑鄙的盗版明月浩空音乐播放器，正版地址：https://myhkw.cn\n", "color: #ffff00; background: #030307; padding:5px 0;");
             }
         }
         ;
@@ -89,7 +93,7 @@ if (/(iPhone|iPod|iPad|Android|ios|Nokia|Black Berry|MIDP|Phone)/i.test(navigato
         var cicleTime = null;
         var myhkadTime = null;
         $songName.html('<a style="color:#f00">初始化歌单</a>');
-        $songFrom.html('<a style="color:#f00">定海七中论坛</a>');
+        $songFrom.html('<a style="color:#f00">明月浩空</a>');
         $songFrom1.html('<a style="color:#f00">音乐播放器</a>');
         $songFrom3.html('<i class="myhkfont myhkicon-mapMarker"></i> 欢迎光临');
         var myhkMedia = {
@@ -622,6 +626,7 @@ if (/(iPhone|iPod|iPad|Android|ios|Nokia|Black Berry|MIDP|Phone)/i.test(navigato
                         $(".musicheader", $albumList).html(siteName);
                     } else {
                         $(".musicheader", $player).css("cssText", "display:block !important;");
+                        $(".musicheader", $albumList).html('<a style="display: unset!important" href="https://myhkw.cn" title="点击免费申请明月浩空音乐播放器" target="_blank" style="color:#FFF">本站音乐播放器由 MYHKW.CN 免费提供</a>');
                     }
                     ;
                     if (b == 1) {
@@ -1082,7 +1087,7 @@ if (/(iPhone|iPod|iPad|Android|ios|Nokia|Black Berry|MIDP|Phone)/i.test(navigato
 function myhkcss() {
     if ($player.css("display") == "contents") {
         clearInterval(playercss);
-        console.log("音乐播放器已禁止非中国IP加载！");
+        console.log("明月浩空音乐播放器已禁止非中国IP加载！");
     } else {
         if ($player.css("display") != "none") {
             clearInterval(playercss);
@@ -1093,6 +1098,14 @@ function myhkcss() {
 }
 function getlist() {
     if (typeof myhkid !== "undefined") {
+        $(".myhkgeci", $player).html('<a style="display: unset!important;float: right" href="https://myhkw.cn" title="点击免费申请明月浩空音乐播放器" target="_blank"><i class="myhkfont myhkicon-share"></i> 免费申请</a>');
+        if ($(".myhkgeci", $player).css("display") == "none" || $(".musicheader", $player).css("display") == "none" || $(".artiststyle", $player).css("display") == "none") {
+            $(".myhkgeci", $player).css("cssText", "display:unset !important;");
+            $(".musicheader", $player).css("cssText", "display:block !important;");
+            $(".artiststyle", $player).css("cssText", "display:block !important;");
+            console.log("免费版播放器被篡改，已自动重载！");
+        }
+        ;
         clearInterval(myhkadTime);
         function myhkad() {
             var a = adList.length;
@@ -1100,6 +1113,12 @@ function getlist() {
             $("a", $player).css("cssText", "display:unset !important;");
             $(".musicheader", $albumList).html('<a style="display: unset!important" href="' + webURL + "ad/" + keyId + "." + adList[adid].adurl + '" title="' + adList[adid].adtitle + '" style="color:rgb(' + myhkfcolor + ')" target="_blank"><i class="myhkfont myhkicon-megaphone"></i> ' + adList[adid].adtitle + "</a>");
             $(".myhkgeci", $player).html('<a style="display: unset!important;float: right;color:rgb(' + myhkfcolor + ')" href="' + webURL + "ad/" + keyId + "." + adList[adid].adurl + '" title="' + adList[adid].adtitle + '" target="_blank"><i class="myhkfont myhkicon-share"></i> ' + adList[adid].adname + "</a>");
+            if ($(".myhkgeci", $player).css("display") == "none" || $(".musicheader", $player).css("display") == "none" || $(".artiststyle", $player).css("display") == "none") {
+                $(".myhkgeci", $player).css("cssText", "display:unset !important;");
+                $(".musicheader", $player).css("cssText", "display:block !important;");
+                $(".artiststyle", $player).css("cssText", "display:block !important;");
+                console.log("免费版播放器被篡改，已自动重载！");
+            }
         }
         myhkadTime = setInterval(myhkad, 1e4);
     }
