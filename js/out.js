@@ -1100,12 +1100,6 @@ function getlist() {
             $("a", $player).css("cssText", "display:unset !important;");
             $(".musicheader", $albumList).html('<a style="display: unset!important" href="' + webURL + "ad/" + keyId + "." + adList[adid].adurl + '" title="' + adList[adid].adtitle + '" style="color:rgb(' + myhkfcolor + ')" target="_blank"><i class="myhkfont myhkicon-megaphone"></i> ' + adList[adid].adtitle + "</a>");
             $(".myhkgeci", $player).html('<a style="display: unset!important;float: right;color:rgb(' + myhkfcolor + ')" href="' + webURL + "ad/" + keyId + "." + adList[adid].adurl + '" title="' + adList[adid].adtitle + '" target="_blank"><i class="myhkfont myhkicon-share"></i> ' + adList[adid].adname + "</a>");
-            if ($(".myhkgeci", $player).css("display") == "none" || $(".musicheader", $player).css("display") == "none" || $(".artiststyle", $player).css("display") == "none") {
-                $(".myhkgeci", $player).css("cssText", "display:unset !important;");
-                $(".musicheader", $player).css("cssText", "display:block !important;");
-                $(".artiststyle", $player).css("cssText", "display:block !important;");
-                console.log("音乐播放器被篡改，已自动重载！");
-            }
         }
         myhkadTime = setInterval(myhkad, 1e4);
     }
