@@ -4,7 +4,7 @@ title:      Microsoft Build 2023：AI的新时代，开发者的新机会
 subtitle:   
 date:       2023-05-25
 author:     LaoShui
-header-img: https://mediastream.microsoft.com/events/2023/2305/W1M5/Images/BUILD_2023_slide10_MicrosoftBuildTheresMoreToExplore.png
+header-img: img/post-bg-Microsoft-Build.jpg
 catalog: true
 tags:
     - 分享
@@ -35,3 +35,20 @@ Bing是一个全球领先的搜索引擎，提供了丰富和多样的搜索结�
 Microsoft 365是一个集成了Office、Windows、Teams等多种应用和服务的云平台，为个人和企业提供了高效和协作的工作环境。Microsoft 365 Copilot是一个为Microsoft 365用户提供AI支持的服务，可以通过插件扩展其功能，如ChatGPT、Bing、Teams消息扩展等。用户可以在Microsoft 365 Copilot中输入自然语言，并获得智能和相关的回答和建议，并且可以直接在Copilot中完成各种操作，如写邮件、制作报告、安排会议等。
 
 对于开发者来说，Microsoft 365 Copilot是一个很好的机会，可以将自己的应用和服务与Microsoft 365 Copilot集成，并为用户提供更多价值。开发者可以使用Microsoft Teams Toolkit来为Microsoft 365 Copilot创建插件，并且可以利用Microsoft Graph将自己的数据与Copilot进行集成，并利用Copilot提供
+
+<div id="lv-container" data-id="city" data-uid="MTAyMC81ODQzNi8zNDg5OQ==">
+	<script type="text/javascript">
+   (function(d, s) {
+       var j, e = d.getElementsByTagName(s)[0];
+
+       if (typeof LivereTower === 'function') { return; }
+
+       j = d.createElement(s);
+       j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+       j.async = true;
+
+       e.parentNode.insertBefore(j, e);
+   })(document, 'script');
+	</script>
+<noscript> 为正常使用评论功能请激活JavaScript</noscript>
+</div>
