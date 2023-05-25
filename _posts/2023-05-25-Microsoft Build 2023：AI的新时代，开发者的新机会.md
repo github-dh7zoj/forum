@@ -14,7 +14,7 @@ tags:
 
 ![Microsoft Build 2023 logo](https://mediastream.microsoft.com/events/2023/2305/W1M5/Images/BUILD_2023_slide10_MicrosoftBuildTheresMoreToExplore.png)
 
-Microsoft Build 2023是一个为开发者举办的年度盛会，展示了Microsoft的最新技术和方向。今年的主题是AI，因为Microsoft认为AI是未来的关键驱动力，可以让人类实现更多的可能性。在本文中，我将介绍一些我觉得最有意义和创新的AI产品和服务，以及它们对开发者的价值和影响。
+Microsoft Build 2023是一个为开发者举办的年度盛会，展示了Microsoft的最新技术和方向。今年的主题是AI，因为Microsoft认为AI是未来的关键驱动力，可以让人类实现更多的可能性。在这篇文章中，我将介绍一些我觉得最有意义和创新的AI产品和服务，以及我认为它们对开发者的价值和影响。
 
 ## Windows Copilot：集成在Windows 11中的AI助手
 
