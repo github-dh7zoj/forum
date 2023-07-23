@@ -23,7 +23,7 @@ function handleRegistration(registration){
       } else {
         console.log('A Visit without previous SW');
         createSnackbar({
-          message: 'App ready for offline use.',
+          message: 'The website is ready for offline use.',
           duration: 3000
         })
       }
