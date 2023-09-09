@@ -12,7 +12,7 @@ tags:
 
 最后更新时间:Sat, 09 Sep 2023 12:45 GMT
 
-查看 下载歌曲进入 LaoShui的存储站(https://cloud.dh7zoj.top)
+查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
 ### 备选歌曲顺序：
 1.张杰 - 最美的太阳 - 每日推荐
