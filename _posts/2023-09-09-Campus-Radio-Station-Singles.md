@@ -10,7 +10,7 @@ tags:
     - 官方
 ---
 
-最后更新时间:Sat, 09 Sep 2023 17:20 GMT
+最后更新时间:Sat, 09 Sep 2023 20:05 GMT
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -42,3 +42,5 @@ tags:
 13.李润祺 - 茫 - 俞子轩
 
 14.南征北战NZBZ - 我的天空 - 每日推荐
+
+15.澤野弘之、SennaRin - IVORY TOWER (feat. SennaRin) - 王迁涵
