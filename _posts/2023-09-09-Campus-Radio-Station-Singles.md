@@ -25,7 +25,7 @@ tags:
 
 5.王梓钰,音阙诗听 - 青春不打烊（JOKER 2018Mix）- 沈芷羽
 
-6.南征北战NZBZ - 骄傲的少年 - 动画《那年那兔那些事儿》第二季片尾曲 - 每日推荐
+6.Dyako,Crazy Bucket 陈楒潼,Carla - 新の終章 (Dyako Remix)
 
 7.兰亭序 - 周杰伦  - 夏紫怡
 
@@ -39,12 +39,16 @@ tags:
 
 12.She Her Her Hers - Episode 33 - 王迁涵
 
-13.李润祺 - 茫 - 俞子轩
+13.Shakira,Freshlyground - Waka Waka (This Time for Africa) - 2010年南非世界杯主题曲 - 每日推荐
 
-14.南征北战NZBZ - 我的天空 - 每日推荐
+14.李润祺 - 茫 - 俞子轩
 
-15.澤野弘之、SennaRin - IVORY TOWER (feat. SennaRin) - 王迁涵
+15.南征北战NZBZ - 我的天空 - 每日推荐
 
-16.GAI周延 - 华夏 - 每日推荐
+16.澤野弘之、SennaRin - IVORY TOWER (feat. SennaRin) - 王迁涵
 
-17.Shakira,Freshlyground - Waka Waka (This Time for Africa) - 2010年南非世界杯主题曲 - 每日推荐
+17.GAI周延 - 华夏 - 每日推荐
+
+18.南征北战NZBZ - 骄傲的少年 - 动画《那年那兔那些事儿》第二季片尾曲 - 每日推荐
+
+19.国风堂,司南 - 吹灭小山河 - 每日推荐
