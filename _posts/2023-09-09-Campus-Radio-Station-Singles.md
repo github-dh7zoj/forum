@@ -10,7 +10,7 @@ tags:
     - 官方
 ---
 
-最后更新时间:Sat, 09 Sep 2023 20:05 GMT
+最后更新时间:Sat, 10 Sep 2023 16:55 GMT
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -44,3 +44,7 @@ tags:
 14.南征北战NZBZ - 我的天空 - 每日推荐
 
 15.澤野弘之、SennaRin - IVORY TOWER (feat. SennaRin) - 王迁涵
+
+16.GAI周延 - 华夏 - 每日推荐
+
+17.Shakira,Freshlyground - Waka Waka (This Time for Africa) - 2010年南非世界杯主题曲 - 每日推荐
