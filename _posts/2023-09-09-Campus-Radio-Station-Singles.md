@@ -10,7 +10,7 @@ tags:
     - 官方
 ---
 
-最后更新时间:Sat, 10 Sep 2023 17:35 GMT
+最后更新时间:Sat, 10 Sep 2023 17:40 GMT
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -25,9 +25,9 @@ tags:
 
 5.王梓钰,音阙诗听 - 青春不打烊（JOKER 2018Mix）- 沈芷羽
 
-6.Dyako,Crazy Bucket 陈楒潼,Carla - 新の終章 (Dyako Remix)
+6.Dyako,Crazy Bucket 陈楒潼,Carla - 新の終章 (Dyako Remix) - 每日推荐
 
-7.兰亭序 - 周杰伦  - 夏紫怡
+7.兰亭序 - 周杰伦 - 夏紫怡
 
 8.岑宁儿 - 追光者 - 电视剧《夏至未至》插曲 - 每日推荐
 
@@ -49,6 +49,8 @@ tags:
 
 17.GAI周延 - 华夏 - 每日推荐
 
-18.南征北战NZBZ - 骄傲的少年 - 动画《那年那兔那些事儿》第二季片尾曲 - 每日推荐
+18.Broiler,Imagine Dragons - Shots (Broiler Remix) - 俞冠羽
 
-19.国风堂,司南 - 吹灭小山河 - 每日推荐
+19.南征北战NZBZ - 骄傲的少年 - 动画《那年那兔那些事儿》第二季片尾曲 - 每日推荐
+
+20.国风堂,司南 - 吹灭小山河 - 每日推荐
