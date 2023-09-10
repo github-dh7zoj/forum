@@ -10,7 +10,7 @@ tags:
     - 官方
 ---
 
-最后更新时间:Sat, 10 Sep 2023 18:40 GMT
+最后更新时间:Sat, 10 Sep 2023 21:00 GMT
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -37,22 +37,26 @@ tags:
 
 11.Jonas Blue,RAYE - By Your Side - 杨译博
 
-12.She Her Her Hers - Episode 33 - 王迁涵
+12.Shakira - Try Everything - 电影《疯狂动物城》主题曲 - 每日推荐
 
-13.Shakira,Freshlyground - Waka Waka (This Time for Africa) - 2010年南非世界杯主题曲 - 每日推荐
+13.She Her Her Hers - Episode 33 - 王迁涵
 
-14.李润祺 - 茫 - 俞子轩
+14.Shakira,Freshlyground - Waka Waka (This Time for Africa) - 2010年南非世界杯主题曲 - 每日推荐
 
-15.南征北战NZBZ - 我的天空 - 每日推荐
+15.李润祺 - 茫 - 俞子轩
 
-16.澤野弘之、SennaRin - IVORY TOWER (feat. SennaRin) - 王迁涵
+16.南征北战NZBZ - 我的天空 - 每日推荐
 
-17.GAI周延 - 华夏 - 每日推荐
+17.澤野弘之、SennaRin - IVORY TOWER (feat. SennaRin) - 王迁涵
 
-18.Broiler,Imagine Dragons - Shots (Broiler Remix) - 俞冠羽
+18.GAI周延 - 华夏 - 每日推荐
 
-19.指弹 《江南》 - 林俊杰 - 每日推荐
+19.Broiler,Imagine Dragons - Shots (Broiler Remix) - 俞冠羽
 
-20.南征北战NZBZ - 骄傲的少年 - 动画《那年那兔那些事儿》第二季片尾曲 - 每日推荐
+20.指弹 《江南》 - 林俊杰 - 每日推荐
 
-21.国风堂,司南 - 吹灭小山河 - 每日推荐
+21.南征北战NZBZ - 骄傲的少年 - 动画《那年那兔那些事儿》第二季片尾曲 - 每日推荐
+
+22.国风堂,司南 - 吹灭小山河 - 每日推荐
+
+23.Pianoboy高至豪 - The truth that you leave - 每日推荐
