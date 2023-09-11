@@ -10,20 +10,20 @@ tags:
     - 官方
 ---
 
-最后更新时间:Sat, 11 Sep 2023 21:20 GMT
+最后更新时间:Sat, 11 Sep 2023 21:50 GMT
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
 ### 备选歌曲顺序：
-1.周深 - 有我 - 庆祝中国共青团成立100周年主题宣传片《共青春》主题曲  - 沈芷羽
+1.周深 - 有我 - 庆祝中国共青团成立100周年主题宣传片《共青春》主题曲
 
 2.张杰 - 最美的太阳 - 每日推荐
 
-3.Professor Green - In The Shadow Of The Sun - 沈芷羽
+3.Professor Green - In The Shadow Of The Sun
 
 4.唐汉霄 - 茶啊少年 - 电影《茶啊二中》态度曲 - 每日推荐
 
-5.王梓钰,音阙诗听 - 青春不打烊（JOKER 2018Mix）- 沈芷羽
+5.王梓钰,音阙诗听 - 青春不打烊（JOKER 2018Mix）
 
 6.Dyako,Crazy Bucket 陈楒潼,Carla - 新の終章 (Dyako Remix) - 每日推荐
 
