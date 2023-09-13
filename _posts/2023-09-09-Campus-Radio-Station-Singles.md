@@ -10,7 +10,7 @@ tags:
     - 官方
 ---
 
-最后更新时间:Sat, 12 Sep 2023 21:50 GMT
+最后更新时间:Sat, 12 Sep 2023 21:25 GMT
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -27,9 +27,9 @@ Professor Green - In The Shadow Of The Sun
 
 兰亭序 - 周杰伦 - 夏紫怡
 
-岑宁儿 - 追光者 - 电视剧《夏至未至》插曲 - 每日推荐
+岑宁儿 - 追光者 - 电视剧《夏至未至》插曲 - 每日推荐 √
 
-Wiz Khalifa,Charlie Puth - See You Again - 有缘再见电影《速度与激情7》片尾曲；第58届格莱美提名歌曲 - 每日推荐
+Wiz Khalifa,Charlie Puth - See You Again - 有缘再见电影《速度与激情7》片尾曲；第58届格莱美提名歌曲 - 每日推荐 √
 
 Jonas Blue,RAYE - By Your Side - 杨译博
 
@@ -58,3 +58,13 @@ Broiler,Imagine Dragons - Shots (Broiler Remix) - 俞冠羽
 Pianoboy高至豪 - The truth that you leave - 每日推荐
 
 房东的猫 - 斑马斑马 - 徐若岚
+
+就是南方凯（项学凯） - 巡光 - 每日推荐
+
+池鱼 - 谁家 - 每日推荐
+
+触不可及 - 周深
+
+周深 - 征途
+
+张韶涵,刘惜君 - 如愿 (Live)
