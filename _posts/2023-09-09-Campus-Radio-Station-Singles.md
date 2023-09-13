@@ -19,7 +19,7 @@ tags:
 
 张杰 - 最美的太阳 - 每日推荐
 
-Professor Green - In The Shadow Of The Sun
+Professor Green - In The Shadow Of The Sun √
 
 唐汉霄 - 茶啊少年 - 电影《茶啊二中》态度曲 - 每日推荐 √
 
