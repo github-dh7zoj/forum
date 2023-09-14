@@ -10,14 +10,14 @@ tags:
     - 官方
 ---
 
-最后更新时间:Sat, 13 Sep 2023 21:50 GMT
+最后更新时间:Sat, 14 Sep 2023 21:40 GMT
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
 ### 备选歌曲列表：
 周深 - 有我 - 庆祝中国共青团成立100周年主题宣传片《共青春》主题曲 √
 
-张杰 - 最美的太阳 - 每日推荐
+张杰 - 最美的太阳 - 每日推荐 √
 
 Professor Green - In The Shadow Of The Sun √
 
@@ -31,7 +31,7 @@ Professor Green - In The Shadow Of The Sun √
 
 Wiz Khalifa,Charlie Puth - See You Again - 有缘再见电影《速度与激情7》片尾曲；第58届格莱美提名歌曲 - 每日推荐 √
 
-Jonas Blue,RAYE - By Your Side - 杨译博
+Jonas Blue,RAYE - By Your Side - 杨译博 √
 
 Shakira - Try Everything - 电影《疯狂动物城》主题曲 - 每日推荐
 
@@ -57,19 +57,26 @@ Broiler,Imagine Dragons - Shots (Broiler Remix) - 俞冠羽
 
 Pianoboy高至豪 - The truth that you leave - 每日推荐
 
-房东的猫 - 斑马斑马 - 徐若岚
+房东的猫 - 斑马斑马 - 徐若岚 √
 
 就是南方凯（项学凯） - 巡光 - 每日推荐
 
 池鱼 - 谁家 - 每日推荐
 
-触不可及 - 周深
+触不可及 - 周深 √
 
-周深 - 征途
+周深 - 征途 √
 
-张韶涵,刘惜君 - 如愿 (Live)
-
-漂洋过海来看你 - 刘明湘 - 余宣萱
+张韶涵,刘惜君 - 如愿 (Live) √
 
 乌兰巴托的夜 (丹正母子版) - 丹正母子 - 余宣萱
 
+漂洋过海来看你 - 刘明湘 - 余宣萱
+
+Taylor Swift - Cruel Summer - 郭哲辰
+
+山河图 - 凤凰传奇 - 邬佳裕
+
+Kelly Clarkson - Catch My Breath - 邵诗娴
+
+五月天 - 倔强 - 陈俊熙
