@@ -10,7 +10,7 @@ tags:
     - 官方
 ---
 
-最后更新时间:Sat, 14 Sep 2023 21:40 GMT
+最后更新时间:Sat, 15 Sep 2023 21:10 GMT
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -35,9 +35,7 @@ Jonas Blue,RAYE - By Your Side - 杨译博 √
 
 Shakira - Try Everything - 电影《疯狂动物城》主题曲 - 每日推荐
 
-She Her Her Hers - Episode 33 - 王迁涵
-
-Shakira,Freshlyground - Waka Waka (This Time for Africa) - 2010年南非世界杯主题曲 - 每日推荐
+She Her Her Hers - Episode 33 - 王迁涵 √
 
 李润祺 - 茫 - 俞子轩
 
@@ -71,12 +69,12 @@ Pianoboy高至豪 - The truth that you leave - 每日推荐
 
 乌兰巴托的夜 (丹正母子版) - 丹正母子 - 余宣萱
 
-漂洋过海来看你 - 刘明湘 - 余宣萱
+漂洋过海来看你 - 刘明湘 - 余宣萱 √
 
-Taylor Swift - Cruel Summer - 郭哲辰
+Taylor Swift - Cruel Summer - 郭哲辰 √
 
-山河图 - 凤凰传奇 - 邬佳裕
+山河图 - 凤凰传奇 - 邬佳裕 √
 
-Kelly Clarkson - Catch My Breath - 邵诗娴
+Kelly Clarkson - Catch My Breath - 邵诗娴 √
 
-五月天 - 倔强 - 陈俊熙
+五月天 - 倔强 - 陈俊熙 √
