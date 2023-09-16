@@ -10,7 +10,7 @@ tags:
     - 官方
 ---
 
-最后更新时间:Sat, 16 Sep 2023 15:10 GMT
+最后更新时间:Sat, 16 Sep 2023 18:50 GMT
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -86,3 +86,21 @@ Beyond - 海阔天空 - 赖致远
 灰澈 - 星茶会 - 杨译博
 
 Mr. Polska - Move Up (Lost Gravity) - 徐泽阳
+
+Marshmello - Alone - 李骧 - 舟山市第一初级中学
+
+HOYO-MiX,Anthony Lynch - 踏上旅途 Take the Journey - 孙睿煊 - 南海实验学校(旌旗山初中校区)
+
+Lauv - Lonely Eyes - 余默浔
+
+Bebe Rexha - Ferrari - 余默浔
+
+鹿先森乐队 - 春风十里 - 余默浔
+
+郭麒麟 - 无名的人 - 余默浔
+
+赵雷 - 我记得 - 余默浔
+
+汪峰 - 光明 - 余默浔
+
+Lazer Boomerang - Time to Pretend - 余默浔
