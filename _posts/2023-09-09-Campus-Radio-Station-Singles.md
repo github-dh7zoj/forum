@@ -10,7 +10,7 @@ tags:
     - 官方
 ---
 
-最后更新时间:Sat, 16 Sep 2023 18:50 GMT
+最后更新时间:Sat, 16 Sep 2023 19:50 GMT
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -91,6 +91,8 @@ Marshmello - Alone - 李骧 - 舟山市第一初级中学
 
 HOYO-MiX,Anthony Lynch - 踏上旅途 Take the Journey - 孙睿煊 - 南海实验学校(旌旗山初中校区)
 
+Taylor Swift - Anti-Hero - 郭哲辰
+
 Lauv - Lonely Eyes - 余默浔
 
 Bebe Rexha - Ferrari - 余默浔
@@ -104,3 +106,9 @@ Bebe Rexha - Ferrari - 余默浔
 汪峰 - 光明 - 余默浔
 
 Lazer Boomerang - Time to Pretend - 余默浔
+
+黄子弘凡 - 青火 - 孙书言
+
+黄子弘凡 - 笑饮孤鸿 - 孙书言
+
+黄子弘凡 - 成为你想成为的大人 - 孙书言
