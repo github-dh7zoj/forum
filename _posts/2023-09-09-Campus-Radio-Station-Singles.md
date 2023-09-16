@@ -10,7 +10,7 @@ tags:
     - 官方
 ---
 
-最后更新时间:Sat, 15 Sep 2023 21:10 GMT
+最后更新时间:Sat, 16 Sep 2023 15:10 GMT
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -78,3 +78,11 @@ Taylor Swift - Cruel Summer - 郭哲辰 √
 Kelly Clarkson - Catch My Breath - 邵诗娴 √
 
 五月天 - 倔强 - 陈俊熙 √
+
+石凯 - 竹蜻蜓 - 孙书言
+
+Beyond - 海阔天空 - 赖致远
+
+灰澈 - 星茶会 - 杨译博
+
+Mr. Polska - Move Up (Lost Gravity) - 徐泽阳
