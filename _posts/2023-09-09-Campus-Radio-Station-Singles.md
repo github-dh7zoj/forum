@@ -10,7 +10,7 @@ tags:
     - 官方
 ---
 
-最后更新时间:Sat, 17 Sep 2023 16:50 GMT
+最后更新时间:Sat, 18 Sep 2023 23:35 GMT
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -33,7 +33,7 @@ Wiz Khalifa,Charlie Puth - See You Again - 有缘再见电影《速度与激情7
 
 Jonas Blue,RAYE - By Your Side - 杨译博 √
 
-Shakira - Try Everything - 电影《疯狂动物城》主题曲 - 每日推荐
+Shakira - Try Everything - 电影《疯狂动物城》主题曲 - 每日推荐 √
 
 She Her Her Hers - Episode 33 - 王迁涵 √
 
@@ -43,13 +43,13 @@ She Her Her Hers - Episode 33 - 王迁涵 √
 
 澤野弘之、SennaRin - IVORY TOWER (feat. SennaRin) - 王迁涵
 
-GAI周延 - 华夏 - 每日推荐
+GAI周延 - 华夏 - 每日推荐 √
 
 Broiler,Imagine Dragons - Shots (Broiler Remix) - 俞冠羽
 
 指弹 《江南》 - 林俊杰 - 每日推荐
 
-南征北战NZBZ - 骄傲的少年 - 动画《那年那兔那些事儿》第二季片尾曲 - 每日推荐
+南征北战NZBZ - 骄傲的少年 - 动画《那年那兔那些事儿》第二季片尾曲 - 每日推荐 √
 
 国风堂,司南 - 吹灭小山河 - 每日推荐
 
@@ -57,7 +57,7 @@ Pianoboy高至豪 - The truth that you leave - 每日推荐
 
 房东的猫 - 斑马斑马 - 徐若岚 √
 
-就是南方凯（项学凯） - 巡光 - 每日推荐
+就是南方凯（项学凯） - 巡光 - 每日推荐 √
 
 池鱼 - 谁家 - 每日推荐
 
@@ -81,9 +81,9 @@ Kelly Clarkson - Catch My Breath - 邵诗娴 √
 
 石凯 - 竹蜻蜓 - 孙书言
 
-Beyond - 海阔天空 - 赖致远
+Beyond - 海阔天空 - 赖致远 √
 
-灰澈 - 星茶会 - 杨译博
+灰澈 - 星茶会 - 杨译博 √
 
 Mr. Polska - Move Up (Lost Gravity) - 徐泽阳
 
@@ -126,3 +126,7 @@ Lazer Boomerang - Time to Pretend - 余默浔
 街道办GDC、欧阳耀莹 - 春娇与志明 - 沈晔
 
 葛东琪 - 风吹丹顶鹤 - 邬佳裕
+
+Timeflies,Katie Sky - Monsters - 杨译博
+
+The Script,will.i.am - Hall of Fame - 每日推荐
