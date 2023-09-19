@@ -127,7 +127,7 @@ Lazer Boomerang - Time to Pretend - 余默浔 √
 
 葛东琪 - 风吹丹顶鹤 - 邬佳裕
 
-Timeflies,Katie Sky - Monsters - 杨译博
+ Katie Sky - Monsters - 杨译博
 
 The Script,will.i.am - Hall of Fame - 每日推荐
 
