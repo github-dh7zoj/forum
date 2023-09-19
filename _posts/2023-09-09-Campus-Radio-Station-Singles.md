@@ -10,7 +10,7 @@ tags:
     - 官方
 ---
 
-最后更新时间:Sat, 18 Sep 2023 23:35 GMT
+最后更新时间:Sat, 19 Sep 2023 21:40 GMT
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -25,7 +25,7 @@ Professor Green - In The Shadow Of The Sun √
 
 王梓钰,音阙诗听 - 青春不打烊（JOKER 2018Mix） √
 
-兰亭序 - 周杰伦 - 夏紫怡
+周杰伦 - 兰亭序 - 夏紫怡
 
 岑宁儿 - 追光者 - 电视剧《夏至未至》插曲 - 每日推荐 √
 
@@ -79,19 +79,19 @@ Kelly Clarkson - Catch My Breath - 邵诗娴 √
 
 五月天 - 倔强 - 陈俊熙 √
 
-石凯 - 竹蜻蜓 - 孙书言
+石凯 - 竹蜻蜓 - 孙书言 √
 
 Beyond - 海阔天空 - 赖致远 √
 
 灰澈 - 星茶会 - 杨译博 √
 
-Mr. Polska - Move Up (Lost Gravity) - 徐泽阳
+Mr. Polska - Move Up (Lost Gravity) - 徐泽阳 √
 
 Marshmello - Alone - 李骧 - 舟山市第一初级中学
 
 HOYO-MiX,Anthony Lynch - 踏上旅途 Take the Journey - 孙睿煊 - 南海实验学校(旌旗山初中校区)
 
-Taylor Swift - Anti-Hero - 郭哲辰
+Taylor Swift - Anti-Hero - 郭哲辰 √
 
 Lauv - Lonely Eyes - 余默浔
 
@@ -105,15 +105,15 @@ Bebe Rexha - Ferrari - 余默浔
 
 汪峰 - 光明 - 余默浔
 
-Lazer Boomerang - Time to Pretend - 余默浔
+Lazer Boomerang - Time to Pretend - 余默浔 √
 
-黄子弘凡 - 青火 - 孙书言
+黄子弘凡 - 青火 - 孙书言 √
 
 黄子弘凡 - 笑饮孤鸿 - 孙书言
 
 黄子弘凡 - 成为你想成为的大人 - 孙书言
 
-吴子健REmi - 难书 - 每日推荐
+吴子健REmi - 难书 - 每日推荐 √
 
 陈亦洺、朝歌夜弦 - 江湖之间 - 每日推荐
 
@@ -121,7 +121,7 @@ Lazer Boomerang - Time to Pretend - 余默浔
 
 许巍 - 蓝莲花 - 每日推荐
 
-李晨、杨颖、郑恺、朱亚文、王彦霖、Lucas、宋雨琦 - 造亿万吨光芒 - 沈晔
+李晨、杨颖、郑恺、朱亚文、王彦霖、Lucas、宋雨琦 - 造亿万吨光芒 - 沈晔 √
 
 街道办GDC、欧阳耀莹 - 春娇与志明 - 沈晔
 
@@ -130,3 +130,9 @@ Lazer Boomerang - Time to Pretend - 余默浔
 Timeflies,Katie Sky - Monsters - 杨译博
 
 The Script,will.i.am - Hall of Fame - 每日推荐
+
+LaoShui - 未来我来_A♭_major__bpm_100 44100 1_01 - 2023年中央广播电视总台春节联欢晚会歌曲自制伴奏 - 每日推荐
+
+Komorebi - m-taku - 严皓凯
+
+TFBOYS - 不完美小孩 - 洪睿晗
