@@ -10,7 +10,7 @@ tags:
     - 官方
 ---
 
-最后更新时间:Sat, 19 Sep 2023 21:40 GMT
+最后更新时间:Sat, 20 Sep 2023 21:50 GMT
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -25,7 +25,7 @@ Professor Green - In The Shadow Of The Sun √
 
 王梓钰,音阙诗听 - 青春不打烊（JOKER 2018Mix） √
 
-周杰伦 - 兰亭序 - 夏紫怡
+周杰伦 - 兰亭序 - 夏紫怡 √
 
 岑宁儿 - 追光者 - 电视剧《夏至未至》插曲 - 每日推荐 √
 
@@ -39,7 +39,7 @@ She Her Her Hers - Episode 33 - 王迁涵 √
 
 李润祺 - 茫 - 俞子轩
 
-南征北战NZBZ - 我的天空 - 每日推荐
+南征北战NZBZ - 我的天空 - 每日推荐 √
 
 澤野弘之、SennaRin - IVORY TOWER (feat. SennaRin) - 王迁涵
 
@@ -89,7 +89,7 @@ Mr. Polska - Move Up (Lost Gravity) - 徐泽阳 √
 
 Marshmello - Alone - 李骧 - 舟山市第一初级中学
 
-HOYO-MiX,Anthony Lynch - 踏上旅途 Take the Journey - 孙睿煊 - 南海实验学校(旌旗山初中校区)
+HOYO-MiX,Anthony Lynch - 踏上旅途 Take the Journey - 孙睿煊 - 南海实验学校(旌旗山初中校区) √
 
 Taylor Swift - Anti-Hero - 郭哲辰 √
 
@@ -119,7 +119,7 @@ Lazer Boomerang - Time to Pretend - 余默浔 √
 
 南征北战NZBZ - 最美的期待 - 每日推荐
 
-许巍 - 蓝莲花 - 每日推荐
+许巍 - 蓝莲花 - 每日推荐 √
 
 李晨、杨颖、郑恺、朱亚文、王彦霖、Lucas、宋雨琦 - 造亿万吨光芒 - 沈晔 √
 
@@ -127,12 +127,28 @@ Lazer Boomerang - Time to Pretend - 余默浔 √
 
 葛东琪 - 风吹丹顶鹤 - 邬佳裕
 
- Katie Sky - Monsters - 杨译博
+Katie Sky - Monsters - 杨译博 √
 
-The Script,will.i.am - Hall of Fame - 每日推荐
+David Guetta,Sia - Titanium - 每日推荐 √
 
-LaoShui - 未来我来_A♭_major__bpm_100 44100 1_01 - 2023年中央广播电视总台春节联欢晚会歌曲自制伴奏 - 每日推荐
+The Script,will.i.am - Hall of Fame - 每日推荐 √
+
+LaoShui - 未来我来_A♭_major__bpm_100 44100 1_01 - 2023年中央广播电视总台春节联欢晚会歌曲自制伴奏 - 每日推荐 √
+
+周深 - 光亮 - 叶灵韵
 
 Komorebi - m-taku - 严皓凯
 
 TFBOYS - 不完美小孩 - 洪睿晗
+
+Da-iCE - Two As One - 俞冠羽
+
+Snigellin - When I see the light at that Time - 余芊萱
+
+承桓 - 我会等 - 余芊萱
+
+周杰伦 - 爱在西元前 - 余芊萱
+
+Anson Seabra - Peter Pan Was Right - 余芊萱
+
+Hillsong Young & Free - Wake (Studio) - 每日推荐 - 余芊萱 - 徐若岚 - 楼泓池（普陀第二中学） and more?
