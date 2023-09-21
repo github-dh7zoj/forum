@@ -10,7 +10,7 @@ tags:
     - 官方
 ---
 
-最后更新时间:Sat, 20 Sep 2023 21:50 GMT
+最后更新时间:Sat, 21 Sep 2023 22:30 GMT
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -45,7 +45,7 @@ She Her Her Hers - Episode 33 - 王迁涵 √
 
 GAI周延 - 华夏 - 每日推荐 √
 
-Broiler,Imagine Dragons - Shots (Broiler Remix) - 俞冠羽
+Broiler,Imagine Dragons - Shots (Broiler Remix) - 俞冠羽 √
 
 指弹 《江南》 - 林俊杰 - 每日推荐
 
@@ -59,7 +59,7 @@ Pianoboy高至豪 - The truth that you leave - 每日推荐
 
 就是南方凯（项学凯） - 巡光 - 每日推荐 √
 
-池鱼 - 谁家 - 每日推荐
+池鱼 - 谁家 - 每日推荐 √
 
 触不可及 - 周深 √
 
@@ -93,7 +93,7 @@ HOYO-MiX,Anthony Lynch - 踏上旅途 Take the Journey - 孙睿煊 - 南海实�
 
 Taylor Swift - Anti-Hero - 郭哲辰 √
 
-Lauv - Lonely Eyes - 余默浔
+Lauv - Lonely Eyes - 余默浔 √
 
 Bebe Rexha - Ferrari - 余默浔
 
@@ -117,7 +117,7 @@ Lazer Boomerang - Time to Pretend - 余默浔 √
 
 陈亦洺、朝歌夜弦 - 江湖之间 - 每日推荐
 
-南征北战NZBZ - 最美的期待 - 每日推荐
+南征北战NZBZ - 最美的期待 - 每日推荐 √
 
 许巍 - 蓝莲花 - 每日推荐 √
 
@@ -125,7 +125,7 @@ Lazer Boomerang - Time to Pretend - 余默浔 √
 
 街道办GDC、欧阳耀莹 - 春娇与志明 - 沈晔
 
-葛东琪 - 风吹丹顶鹤 - 邬佳裕
+葛东琪 - 风吹丹顶鹤 - 邬佳裕 √
 
 Katie Sky - Monsters - 杨译博 √
 
@@ -135,7 +135,7 @@ The Script,will.i.am - Hall of Fame - 每日推荐 √
 
 LaoShui - 未来我来_A♭_major__bpm_100 44100 1_01 - 2023年中央广播电视总台春节联欢晚会歌曲自制伴奏 - 每日推荐 √
 
-周深 - 光亮 - 叶灵韵
+周深 - 光亮 - 叶灵韵 √
 
 Komorebi - m-taku - 严皓凯
 
@@ -145,10 +145,28 @@ Da-iCE - Two As One - 俞冠羽
 
 Snigellin - When I see the light at that Time - 余芊萱
 
-承桓 - 我会等 - 余芊萱
+承桓 - 我会等 - 余芊萱 √
 
 周杰伦 - 爱在西元前 - 余芊萱
 
 Anson Seabra - Peter Pan Was Right - 余芊萱
 
 Hillsong Young & Free - Wake (Studio) - 每日推荐 - 余芊萱 - 徐若岚 - 楼泓池（普陀第二中学） and more?
+
+周深 - 可它爱着这个世界 - 陈欣瑜 - 预 9/25 中午放学
+
+周杰伦 - 晴天 - 姚芊羽
+
+Imagine Dragons - Bones - 邬瑞凝
+
+Imagine Dragons - Natural - 邬瑞凝
+
+Imagine Dragons - Demons - 邬瑞凝
+
+李常超 (Lao乾妈) - 盗墓笔记·十年人间 - 余芊萱
+
+程潇 - 若情 - 王馨颖
+
+凤凰传奇 - 最炫民族风 - 每日推荐
+
+阿禹ayy - 耍把戏 - 每日推荐
