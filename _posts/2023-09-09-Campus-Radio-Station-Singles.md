@@ -10,7 +10,7 @@ tags:
     - 官方
 ---
 
-最后更新时间:Sat, 21 Sep 2023 22:30 GMT
+最后更新时间:Sat, 22 Sep 2023 22:40 GMT
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -41,7 +41,7 @@ She Her Her Hers - Episode 33 - 王迁涵 √
 
 南征北战NZBZ - 我的天空 - 每日推荐 √
 
-澤野弘之、SennaRin - IVORY TOWER (feat. SennaRin) - 王迁涵
+澤野弘之、SennaRin - IVORY TOWER (feat. SennaRin) - 王迁涵 √
 
 GAI周延 - 华夏 - 每日推荐 √
 
@@ -153,20 +153,30 @@ Anson Seabra - Peter Pan Was Right - 余芊萱
 
 Hillsong Young & Free - Wake (Studio) - 每日推荐 - 余芊萱 - 徐若岚 - 楼泓池（普陀第二中学） and more?
 
-周深 - 可它爱着这个世界 - 陈欣瑜 - 预 9/25 中午放学
+周杰伦 - 晴天 - 姚芊羽 √
 
-周杰伦 - 晴天 - 姚芊羽
+Imagine Dragons - Bones - 邬瑞凝 √
 
-Imagine Dragons - Bones - 邬瑞凝
+Imagine Dragons - Natural - 邬瑞凝 - 预 中午
 
-Imagine Dragons - Natural - 邬瑞凝
+Imagine Dragons - Demons - 邬瑞凝 - 预 中午
 
-Imagine Dragons - Demons - 邬瑞凝
-
-李常超 (Lao乾妈) - 盗墓笔记·十年人间 - 余芊萱
+李常超 (Lao乾妈) - 盗墓笔记·十年人间 - 余芊萱 √
 
 程潇 - 若情 - 王馨颖
 
-凤凰传奇 - 最炫民族风 - 每日推荐
+凤凰传奇 - 最炫民族风 - 每日推荐 √
 
-阿禹ayy - 耍把戏 - 每日推荐
+阿禹ayy - 耍把戏 - 每日推荐 √
+
+周深 - 时结 - 陈欣瑜 预 9/27 中午放学
+
+周深 - 璀璨冒险人 - 陈欣瑜 预 9/25 中午放学
+
+周杰伦 - 七里香 - 王子奥 预 9/26 中午放学
+
+Vicetone,Cozi Zuehlsdorff - Nevada - 赖致远
+
+Dixie Flatline,初音ミク - Decade - 郏扬菡
+
+Zedd,Jon Bellion - Beautiful Now - 黄宇翔
