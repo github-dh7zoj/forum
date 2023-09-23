@@ -10,7 +10,7 @@ tags:
     - 官方
 ---
 
-最后更新时间:Sat, 22 Sep 2023 22:40 GMT
+最后更新时间:Sat, 23 Sep 2023 09:40 GMT
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -115,7 +115,7 @@ Lazer Boomerang - Time to Pretend - 余默浔 √
 
 吴子健REmi - 难书 - 每日推荐 √
 
-陈亦洺、朝歌夜弦 - 江湖之间 - 每日推荐
+陈亦洺、朝歌夜弦 - 江湖之间 - 每日推荐 √
 
 南征北战NZBZ - 最美的期待 - 每日推荐 √
 
@@ -137,7 +137,7 @@ LaoShui - 未来我来_A♭_major__bpm_100 44100 1_01 - 2023年中央广播电�
 
 周深 - 光亮 - 叶灵韵 √
 
-Komorebi - m-taku - 严皓凯
+m-taku - Komorebi - 严皓凯
 
 TFBOYS - 不完美小孩 - 洪睿晗
 
@@ -163,7 +163,7 @@ Imagine Dragons - Demons - 邬瑞凝 - 预 中午
 
 李常超 (Lao乾妈) - 盗墓笔记·十年人间 - 余芊萱 √
 
-程潇 - 若情 - 王馨颖
+程潇 - 若情 - 王馨颖 - 预 中午
 
 凤凰传奇 - 最炫民族风 - 每日推荐 √
 
@@ -180,3 +180,17 @@ Vicetone,Cozi Zuehlsdorff - Nevada - 赖致远
 Dixie Flatline,初音ミク - Decade - 郏扬菡
 
 Zedd,Jon Bellion - Beautiful Now - 黄宇翔
+
+梦然 - 是你 - 每日推荐
+
+王力宏,谭维维 - 缘分一道桥 - 电影《长城》片尾曲 - 每日推荐
+
+大张伟 - 世上最美好的祈祷 - 电影《你好，李焕英》片尾曲 - 每日推荐
+
+汪苏泷 - 闪耀 - 柴思婷
+
+鹿晗 - 勋章 - 电影《我是证人》主题曲 - 柴思婷
+
+阿禹ayy - 少年你也怀疑自己不是主角了吗 - 柴思婷
+
+南征北战NZBZ - 闪耀 - 每日推荐
