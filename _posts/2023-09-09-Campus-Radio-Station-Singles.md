@@ -61,19 +61,19 @@ Pianoboy高至豪 - The truth that you leave - 每日推荐
 
 池鱼 - 谁家 - 每日推荐 √
 
-触不可及 - 周深 √
+周深 - 触不可及 √
 
 周深 - 征途 √
 
 张韶涵,刘惜君 - 如愿 (Live) √
 
-乌兰巴托的夜 (丹正母子版) - 丹正母子 - 余宣萱
+丹正母子 - 乌兰巴托的夜 (丹正母子版) - 余宣萱
 
-漂洋过海来看你 - 刘明湘 - 余宣萱 √
+刘明湘 - 漂洋过海来看你 - 余宣萱 √
 
 Taylor Swift - Cruel Summer - 郭哲辰 √
 
-山河图 - 凤凰传奇 - 邬佳裕 √
+凤凰传奇 - 山河图 - 邬佳裕 √
 
 Kelly Clarkson - Catch My Breath - 邵诗娴 √
 
@@ -194,3 +194,27 @@ Zedd,Jon Bellion - Beautiful Now - 黄宇翔
 阿禹ayy - 少年你也怀疑自己不是主角了吗 - 柴思婷
 
 南征北战NZBZ - 闪耀 - 每日推荐
+
+凤凰传奇 - 奢香夫人 - 每日推荐
+
+MANTA - 断臂的维纳斯 - 张琪乔
+
+Toby Fox - His Theme ▸ Sprightly (DJ20001S1版)-Toby Fox - 陈志豪
+
+YOASOBI,Midories - The Swallow (feat. Midories) - 毛睿一
+
+Taylor Swift - You Need To Calm Down - 胡仟渝
+
+(G)I-DLE - 화(火花) - 缪柯言
+
+周深 - Rubia - 陈依萌
+
+时代少年团 - 躺着真舒服 - 王子奥
+
+张韶涵,王嘉尔,Sunnee杨芸晴 - 有你有我 - 杭州亚运会官方主题推广曲 - 每日推荐
+
+周深 - 爱达未来 - 杭州亚运会官方主题推广曲 - 每日推荐
+
+孙楠 - 同爱同在 - 杭州亚运会主题曲 - 每日推荐
+
+许巍 - 第三极 - 每日推荐
