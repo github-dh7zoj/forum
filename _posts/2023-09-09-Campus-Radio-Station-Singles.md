@@ -10,7 +10,7 @@ tags:
     - 官方
 ---
 
-最后更新时间:Sat, 24 Sep 2023 18:05 GMT
+最后更新时间:Sat, 26 Sep 2023 23:05 GMT
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -47,7 +47,7 @@ GAI周延 - 华夏 - 每日推荐 √
 
 Broiler,Imagine Dragons - Shots (Broiler Remix) - 俞冠羽 √
 
-指弹 《江南》 - 林俊杰 - 每日推荐
+指弹 《江南》 - 林俊杰 - 每日推荐 √
 
 南征北战NZBZ - 骄傲的少年 - 动画《那年那兔那些事儿》第二季片尾曲 - 每日推荐 √
 
@@ -123,7 +123,7 @@ Lazer Boomerang - Time to Pretend - 余默浔 √
 
 李晨、杨颖、郑恺、朱亚文、王彦霖、Lucas、宋雨琦 - 造亿万吨光芒 - 沈晔 √
 
-街道办GDC、欧阳耀莹 - 春娇与志明 - 沈晔
+街道办GDC、欧阳耀莹 - 春娇与志明 - 沈晔 √
 
 葛东琪 - 风吹丹顶鹤 - 邬佳裕 √
 
@@ -137,7 +137,7 @@ LaoShui - 未来我来_A♭_major__bpm_100 44100 1_01 - 2023年中央广播电�
 
 周深 - 光亮 - 叶灵韵 √
 
-m-taku - Komorebi - 严皓凯
+m-taku - Komorebi - 严皓凯 √
 
 TFBOYS - 不完美小孩 - 洪睿晗
 
@@ -149,9 +149,9 @@ Snigellin - When I see the light at that Time - 余芊萱
 
 周杰伦 - 爱在西元前 - 余芊萱
 
-Anson Seabra - Peter Pan Was Right - 余芊萱
+Anson Seabra - Peter Pan Was Right - 余芊萱 √
 
-Hillsong Young & Free - Wake (Studio) - 每日推荐 - 余芊萱 - 徐若岚 - 楼泓池（普陀第二中学） and more?
+Hillsong Young & Free - Wake (Studio) - 每日推荐 - 余芊萱 - 徐若岚 - 楼泓池（普陀第二中学） and more? √
 
 周杰伦 - 晴天 - 姚芊羽 √
 
@@ -169,13 +169,13 @@ Imagine Dragons - Demons - 邬瑞凝 - 预 中午
 
 阿禹ayy - 耍把戏 - 每日推荐 √
 
-周深 - 时结 - 陈欣瑜 预 9/27 中午放学
+周深 - 时结 - 陈欣瑜 预 9/26 中午放学
 
-周深 - 璀璨冒险人 - 陈欣瑜 预 9/25 中午放学
+周深 - 璀璨冒险人 - 陈欣瑜 √
 
 周杰伦 - 七里香 - 王子奥 预 9/26 中午放学
 
-Vicetone,Cozi Zuehlsdorff - Nevada - 赖致远
+Vicetone,Cozi Zuehlsdorff - Nevada - 赖致远 √
 
 Dixie Flatline,初音ミク - Decade - 郏扬菡
 
@@ -189,15 +189,15 @@ Zedd,Jon Bellion - Beautiful Now - 黄宇翔
 
 汪苏泷 - 闪耀 - 柴思婷
 
-鹿晗 - 勋章 - 电影《我是证人》主题曲 - 柴思婷
+鹿晗 - 勋章 - 电影《我是证人》主题曲 - 柴思婷 √
 
 阿禹ayy - 少年你也怀疑自己不是主角了吗 - 柴思婷
 
-南征北战NZBZ - 闪耀 - 每日推荐
+南征北战NZBZ - 闪耀 - 每日推荐 √
 
-凤凰传奇 - 奢香夫人 - 每日推荐
+凤凰传奇 - 奢香夫人 - 每日推荐 √
 
-MANTA - 断臂的维纳斯 - 张琪乔
+MANTA - 断臂的维纳斯 - 张琪乔 √
 
 Toby Fox - His Theme ▸ Sprightly (DJ20001S1版)-Toby Fox - 陈志豪
 
@@ -211,10 +211,22 @@ Taylor Swift - You Need To Calm Down - 胡仟渝
 
 时代少年团 - 躺着真舒服 - 王子奥
 
-张韶涵,王嘉尔,Sunnee杨芸晴 - 有你有我 - 杭州亚运会官方主题推广曲 - 每日推荐
+张韶涵,王嘉尔,Sunnee杨芸晴 - 有你有我 - 杭州亚运会官方主题推广曲 - 每日推荐 √
 
-周深 - 爱达未来 - 杭州亚运会官方主题推广曲 - 每日推荐
+周深 - 爱达未来 - 杭州亚运会官方主题推广曲 - 每日推荐 √
 
-孙楠 - 同爱同在 - 杭州亚运会主题曲 - 每日推荐
+孙楠 - 同爱同在 - 杭州亚运会主题曲 - 每日推荐 √
 
-许巍 - 第三极 - 每日推荐
+许巍 - 第三极 - 每日推荐 √
+
+时代少年团 - 无尽的冒险 - 陈思璇
+
+韦唯,周深,萧敬腾 - 从现在 到未来 - 杭州亚运会官方主题推广曲 - 每日推荐
+
+南征北战NZBZ - 祖国 - 共青团中央宣传部联合出品 - 每日推荐
+
+阿冗 - 你的答案 - 每日推荐
+
+周深 - 我，江湖！ - 每日推荐
+
+共青团中央,青年湖南,Windapaper_RADI8 - 星火 - 每日推荐
