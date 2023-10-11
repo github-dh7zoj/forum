@@ -10,7 +10,7 @@ tags:
     - 官方
 ---
 
-最后更新时间:Sat, 10 Oct 2023 22:05 GMT
+最后更新时间:Sat, 11 Oct 2023 21:20 GMT
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -147,7 +147,7 @@ Snigellin - When I see the light at that Time - 余芊萱
 
 承桓 - 我会等 - 余芊萱 √
 
-周杰伦 - 爱在西元前 - 余芊萱
+周杰伦 - 爱在西元前 - 余芊萱  √
 
 Anson Seabra - Peter Pan Was Right - 余芊萱 √
 
@@ -199,7 +199,7 @@ Zedd,Jon Bellion - Beautiful Now - 黄宇翔
 
 MANTA - 断臂的维纳斯 - 张琪乔 √
 
-Toby Fox - His Theme ▸ Sprightly (DJ20001S1版) - 陈志豪
+Toby Fox - His Theme ▸ Sprightly (DJ20001S1版) - 陈志豪  √
 
 YOASOBI,Midories - The Swallow (feat. Midories) - 毛睿一
 
@@ -299,18 +299,30 @@ ANU - 飞 - 电视剧《少年派2》片头曲 - 每日推荐 √
 
 陈雪燃 - 无名之辈 - 每日推荐
 
-Em Beihold - Numb Little Bug - 邬瑞凝 - 预中午
+Em Beihold - Numb Little Bug - 邬瑞凝 - 预中午 √
 
-浩然H.R - 年少的你啊 - 每日推荐
+浩然H.R - 年少的你啊 - 每日推荐  √
 
-洪辰、宁桓宇 - 我乘着风飞过来 - 电影《熊出没之熊心归来》插曲 - 每日推荐
+洪辰、宁桓宇 - 我乘着风飞过来 - 电影《熊出没之熊心归来》插曲 - 每日推荐  √
 
-就是南方凯 - 你就是远方 - 每日推荐
+就是南方凯 - 你就是远方 - 每日推荐 √
 
-尚雯婕 - free & unafraid 自由与勇敢 - 电影《熊出没·奇幻空间》主题曲英文版 - 每日推荐
+尚雯婕 - free & unafraid 自由与勇敢 - 电影《熊出没·奇幻空间》主题曲英文版 - 每日推荐  √
 
 逃跑计划 - 一万次悲伤 - 每日推荐
 
 周深 - 兰亭序 (Live) - 每日推荐
 
-周深 - 向光而行 - 每日推荐
+周深 - 向光而行 - 每日推荐  √
+
+周深 - 听我说 - 余默浔
+
+The Chainsmokers、Coldplay - Something Just Like This - 邬瑞凝
+
+雷佳 - 写故事的人 - 余默浔
+
+周杰伦 - 半岛铁盒- 姚芊羽(孙士蘅)
+
+南征北战NZBZ - 生来倔强 - 每日推荐
+
+王晓天 - 荣耀 - 每日推荐
