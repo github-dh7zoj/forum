@@ -10,7 +10,7 @@ tags:
     - 官方
 ---
 
-最后更新时间:Sat, 14 Oct 2023 13:50 GMT
+最后更新时间:Sat, 14 Oct 2023 21:50 GMT
 
 ### 以下为校运动会备选歌曲：
 
@@ -24,17 +24,35 @@ GANGSTER CITY - Opr (Gangster remix) - 102 BPM F# major
 
 ANU - FLY-飞 - 102 BPM Camelot 4B
 
+Keyfm - Faded ( Keyfm RMX ) - 100 BPM
+
+Lady Gaga - The Cure - 100 BPM
+
 Alex Marvel、Pash Velper - Don't Stop - 103 BPM A minor Camelot Camelot 8A
 
 T3nzu - Polozhenie - 108 BPM B♭ minor Camelot 3A
 
+Kelly Clarkson - Stronger - 116 BPM
+
 ZsFlovexl - Yubik-The Runner (Original Mix) - 123 BPM C minor Camelot 5A
 
+DJHY - Catch My Breath (DJHY Remix) - 124 BPM
+
+Kelly Clarkson - Catch My Breath - 124 BPM
+
+Öwnboss、SEVEK、RAIZHELL - Move Your Body (RAIZHELL Remix) - 125 BPM
+
+Tungevaag & Raaban - All For Love - 125 BPM
+
 Selena Gomez、Marshmello - Wolves - 黄宇翔 - 125 BPM D major Camelot 10B
+
+Glichery - Sea Of Problems(Explicit) - 128 BPM
 
 赖美云、黄霄雲 - 幻想 - 128 BPM E major Camelot 12B
 
 宋雨琦 - 哈哈哪儿啦 - 《各位游客请注意》主题曲 - 132 BPM D major Camelot 10B
+
+Sam Hunt - Break Up In A Small Town - 135 BPM
 
 Dropwizz、Martin Garrix、Savagez - Now That I've Found You (Dropwizz x Savagez Remix) - 140 BPM F minor Camelot 4A
 
