@@ -10,7 +10,7 @@ tags:
     - 官方
 ---
 
-最后更新时间:Sat, 14 Oct 2023 21:50 GMT
+最后更新时间:Sat, 23 Oct 2023 19:50 GMT
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -97,11 +97,11 @@ Lauv - Lonely Eyes - 余默浔 √
 
 Bebe Rexha - Ferrari - 余默浔
 
-鹿先森乐队 - 春风十里 - 余默浔
+鹿先森乐队 - 春风十里 - 余默浔 √
 
-郭麒麟 - 无名的人 - 电影《雄狮少年》主题曲 - 余默浔
+郭麒麟 - 无名的人 - 电影《雄狮少年》主题曲 - 余默浔 √
 
-赵雷 - 我记得 - 余默浔
+赵雷 - 我记得 - 余默浔 √
 
 汪峰 - 光明 - 余默浔 √
 
@@ -109,7 +109,7 @@ Lazer Boomerang - Time to Pretend - 余默浔 √
 
 黄子弘凡 - 青火 - 孙书言 √
 
-黄子弘凡 - 笑饮孤鸿 - 孙书言
+黄子弘凡 - 笑饮孤鸿 - 孙书言 √
 
 黄子弘凡 - 成为你想成为的大人 - 孙书言
 
@@ -139,11 +139,11 @@ LaoShui - 未来我来_A♭_major__bpm_100 44100 1_01 - 2023年中央广播电�
 
 m-taku - Komorebi - 严皓凯 √
 
-TFBOYS - 不完美小孩 - 洪睿晗
+TFBOYS - 不完美小孩 - 洪睿晗 √
 
 Da-iCE - Two As One - 俞冠羽
 
-Snigellin - When I see the light at that Time - 余芊萱
+Snigellin - When I see the light at that Time - 余芊萱 √
 
 承桓 - 我会等 - 余芊萱 √
 
@@ -157,9 +157,9 @@ Hillsong Young & Free - Wake (Studio) - 每日推荐 - 余芊萱 - 徐若岚 - �
 
 Imagine Dragons - Bones - 邬瑞凝 √
 
-Imagine Dragons - Natural - 邬瑞凝 - 预 中午
+Imagine Dragons - Natural - 邬瑞凝 √
 
-Imagine Dragons - Demons - 邬瑞凝 - 预 中午
+Imagine Dragons - Demons - 邬瑞凝 √
 
 李常超 (Lao乾妈) - 盗墓笔记·十年人间 - 余芊萱 √
 
@@ -179,9 +179,9 @@ Vicetone,Cozi Zuehlsdorff - Nevada - 赖致远 √
 
 Dixie Flatline,初音ミク - Decade - 郏扬菡
 
-Zedd,Jon Bellion - Beautiful Now - 黄宇翔
+Zedd,Jon Bellion - Beautiful Now - 黄宇翔 √
 
-梦然 - 是你 - 每日推荐
+梦然 - 是你 - 每日推荐 √
 
 王力宏,谭维维 - 缘分一道桥 - 电影《长城》片尾曲 - 每日推荐  √
 
@@ -193,7 +193,7 @@ Zedd,Jon Bellion - Beautiful Now - 黄宇翔
 
 阿禹ayy - 少年你也怀疑自己不是主角了吗 - 柴思婷
 
-南征北战NZBZ - 闪耀 - 每日推荐
+南征北战NZBZ - 闪耀 - 每日推荐 √
 
 凤凰传奇 - 奢香夫人 - 每日推荐 √
 
@@ -301,17 +301,17 @@ ANU - 飞 - 电视剧《少年派2》片头曲 - 每日推荐 √
 
 Em Beihold - Numb Little Bug - 邬瑞凝 √
 
-浩然H.R - 年少的你啊 - 每日推荐  √
+浩然H.R - 年少的你啊 - 每日推荐 √
 
-洪辰、宁桓宇 - 我乘着风飞过来 - 电影《熊出没之熊心归来》插曲 - 每日推荐  √
+洪辰、宁桓宇 - 我乘着风飞过来 - 电影《熊出没之熊心归来》插曲 - 每日推荐 √
 
 就是南方凯 - 你就是远方 - 每日推荐 √
 
 尚雯婕 - free & unafraid 自由与勇敢 - 电影《熊出没·奇幻空间》主题曲英文版 - 每日推荐  √
 
-逃跑计划 - 一万次悲伤 - 每日推荐
+逃跑计划 - 一万次悲伤 - 每日推荐 √
 
-周深 - 兰亭序 (Live) - 每日推荐
+周深 - 兰亭序 (Live) - 每日推荐 √
 
 周深 - 向光而行 - 每日推荐 √
 
@@ -327,15 +327,15 @@ The Chainsmokers、Coldplay - Something Just Like This - 邬瑞凝 √
 
 王晓天 - 荣耀 - 每日推荐 √
 
-奇然,沈谧仁 - 琵琶行 - 李骧(舟山市第一初级中学) - (黄炯凯)  √
+奇然,沈谧仁 - 琵琶行 - 李骧(舟山市第一初级中学) - (黄炯凯) √
 
-凤凰传奇 - 月亮之上 - 每日推荐  √
+凤凰传奇 - 月亮之上 - 每日推荐 √
 
-周深 - 亲爱的旅人啊 - 秦勤  √
+周深 - 亲爱的旅人啊 - 秦勤 √
 
 毛不易 - 无名的人 - 秦勤
 
-周杰伦 - 听妈妈的话 - 陈志豪  √
+周杰伦 - 听妈妈的话 - 陈志豪 √
 
 周杰伦 - 反方向的钟 - 邬佳裕
 
@@ -349,12 +349,28 @@ The Chainsmokers、Coldplay - Something Just Like This - 邬瑞凝 √
 
 浮生梦tuzi - 星月落 - 每日推荐
 
-张碧晨 - 光的方向 - 每日推荐
+张碧晨 - 光的方向 - 每日推荐 √
 
-Dripice - Escape - 每日推荐
+Dripice - Escape - 每日推荐 √
 
-凤凰传奇 - 荷塘月色 - 每日推荐
+凤凰传奇 - 荷塘月色 - 每日推荐 √
 
-Kelly Clarkson - Stronger - 每日推荐
+Kelly Clarkson - Stronger - 每日推荐 √
 
-郁可唯 - 知否知否 (女声版) - 傅嘉瑜
+郁可唯 - 知否知否 (女声版) - 傅嘉瑜  √
+
+刘至佳、韩瞳 - 时光背面的我 - 每日推荐
+
+Ashes Remain - On My Own - 每日推荐
+
+TheFatRat、Anjulie - Close To The Sun - 每日推荐
+
+GooGoo - 我的纸飞机 (纯享版) - 余默浔
+
+羽·泉、张继科、那吾克热-NW - 飞越巅峰 - 余默浔
+
+张杰、张靓颖 - 沉香 - 方蓓淇
+
+The Glitch Mob,Mako,The Word Alive - RISE - 陈姝含
+
+郭静 - 青春不打烊 - 每日推荐
