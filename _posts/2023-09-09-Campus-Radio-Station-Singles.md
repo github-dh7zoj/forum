@@ -10,7 +10,7 @@ tags:
     - 官方
 ---
 
-最后更新时间:Sat, 23 Oct 2023 19:50 GMT
+最后更新时间:Sat, 24 Oct 2023 22:20 GMT
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -374,3 +374,19 @@ GooGoo - 我的纸飞机 (纯享版) - 余默浔
 The Glitch Mob,Mako,The Word Alive - RISE - 陈姝含
 
 郭静 - 青春不打烊 - 每日推荐
+
+洛少爷 - 追光者 - 张彬钰
+
+千月兔、封茗囧菌、双笙 (陈元汐)、艾辰 - 2021～听风捕梦～ - 张彬钰
+
+太一 - 负重一万斤长大 - 张彬钰
+
+The Nelons - Auld Lang Syne - 张彬钰
+
+Beyond - 光辉岁月- 每日推荐
+
+Achim Reichel - Aloha Heja He - 每日推荐
+
+张韶涵 - 兽 - 每日推荐
+
+Beyond - 不再犹豫 - 每日推荐
