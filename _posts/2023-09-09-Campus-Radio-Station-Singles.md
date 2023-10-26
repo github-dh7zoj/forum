@@ -10,7 +10,7 @@ tags:
     - 官方
 ---
 
-最后更新时间:Sat, 24 Oct 2023 22:20 GMT
+最后更新时间:Sat, 26 Oct 2023 21:20 GMT
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -191,7 +191,7 @@ Zedd,Jon Bellion - Beautiful Now - 黄宇翔 √
 
 鹿晗 - 勋章 - 电影《我是证人》主题曲 - 柴思婷 √
 
-阿禹ayy - 少年你也怀疑自己不是主角了吗 - 柴思婷
+阿禹ayy - 少年你也怀疑自己不是主角了吗 - 柴思婷 √
 
 南征北战NZBZ - 闪耀 - 每日推荐 √
 
@@ -207,7 +207,7 @@ Taylor Swift - You Need To Calm Down - 胡仟渝
 
 (G)I-DLE - 화(火花) - 缪柯言
 
-周深 - Rubia - 陈依萌
+周深 - Rubia - 陈依萌 √
 
 时代少年团 - 躺着真舒服 - 王子奥 √
 
@@ -333,7 +333,7 @@ The Chainsmokers、Coldplay - Something Just Like This - 邬瑞凝 √
 
 周深 - 亲爱的旅人啊 - 秦勤 √
 
-毛不易 - 无名的人 - 秦勤
+毛不易 - 无名的人 - 秦勤 √
 
 周杰伦 - 听妈妈的话 - 陈志豪 √
 
@@ -347,7 +347,7 @@ The Chainsmokers、Coldplay - Something Just Like This - 邬瑞凝 √
 
 王力宏 - 天地龙鳞 - 大型纪录片《紫禁城》主题歌 - 每日推荐
 
-浮生梦tuzi - 星月落 - 每日推荐
+浮生梦tuzi - 星月落 - 每日推荐 √
 
 张碧晨 - 光的方向 - 每日推荐 √
 
@@ -357,36 +357,42 @@ Dripice - Escape - 每日推荐 √
 
 Kelly Clarkson - Stronger - 每日推荐 √
 
-郁可唯 - 知否知否 (女声版) - 傅嘉瑜  √
+郁可唯 - 知否知否 (女声版) - 傅嘉瑜 √
 
 刘至佳、韩瞳 - 时光背面的我 - 每日推荐
 
-Ashes Remain - On My Own - 每日推荐
+Ashes Remain - On My Own - 每日推荐 √
 
-TheFatRat、Anjulie - Close To The Sun - 每日推荐
+TheFatRat、Anjulie - Close To The Sun - 每日推荐 √
 
-GooGoo - 我的纸飞机 (纯享版) - 余默浔
+GooGoo - 我的纸飞机 (纯享版) - 余默浔 √
 
-羽·泉、张继科、那吾克热-NW - 飞越巅峰 - 余默浔
+羽·泉、张继科、那吾克热-NW - 飞越巅峰 - 余默浔 √
 
-张杰、张靓颖 - 沉香 - 方蓓淇
+张杰、张靓颖 - 沉香 - 方蓓淇 √
 
 The Glitch Mob,Mako,The Word Alive - RISE - 陈姝含
 
-郭静 - 青春不打烊 - 每日推荐
+郭静 - 青春不打烊 - 每日推荐 √
 
 洛少爷 - 追光者 - 张彬钰
 
-千月兔、封茗囧菌、双笙 (陈元汐)、艾辰 - 2021～听风捕梦～ - 张彬钰
+千月兔、封茗囧菌、双笙 (陈元汐)、艾辰 - 2021～听风捕梦～ - 张彬钰 √
 
 太一 - 负重一万斤长大 - 张彬钰
 
 The Nelons - Auld Lang Syne - 张彬钰
 
-Beyond - 光辉岁月- 每日推荐
+Beyond - 光辉岁月- 每日推荐 √
 
-Achim Reichel - Aloha Heja He - 每日推荐
+Achim Reichel - Aloha Heja He - 每日推荐 √
 
-张韶涵 - 兽 - 每日推荐
+张韶涵 - 兽 - 每日推荐 √
 
-Beyond - 不再犹豫 - 每日推荐
+Beyond - 不再犹豫 - 每日推荐 √
+
+李怡然同学 - 可能 - 陈姿霖
+
+黄勇,任书怀 - 你看到的我 - 每日推荐
+
+我只吃晚饭_李雨霏,刘兆宇 - 深夜到黎明 - 每日推荐
