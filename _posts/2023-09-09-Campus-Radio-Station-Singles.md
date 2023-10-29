@@ -10,7 +10,7 @@ tags:
     - 官方
 ---
 
-最后更新时间:Sat, 26 Oct 2023 21:20 GMT
+最后更新时间:Sat, 29 Oct 2023 22:50 GMT
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -235,7 +235,7 @@ Taylor Swift - You Need To Calm Down - 胡仟渝
 
 呼斯乐 - 青春火焰 - 每日推荐
 
-TFBOYS - 大梦想家 - 陈梦琪
+TFBOYS - 大梦想家 - 陈梦琪 √
 
 周杰伦 - 红尘客栈 - 虞可欣 √
 
@@ -379,7 +379,7 @@ The Glitch Mob,Mako,The Word Alive - RISE - 陈姝含
 
 千月兔、封茗囧菌、双笙 (陈元汐)、艾辰 - 2021～听风捕梦～ - 张彬钰 √
 
-太一 - 负重一万斤长大 - 张彬钰
+太一 - 负重一万斤长大 - 张彬钰 √
 
 The Nelons - Auld Lang Syne - 张彬钰
 
@@ -391,8 +391,22 @@ Achim Reichel - Aloha Heja He - 每日推荐 √
 
 Beyond - 不再犹豫 - 每日推荐 √
 
-李怡然同学 - 可能 - 陈姿霖
+李怡然同学 - 可能 - 陈姿霖 √
 
-黄勇,任书怀 - 你看到的我 - 每日推荐
+黄勇,任书怀 - 你看到的我 - 每日推荐 √
 
-我只吃晚饭_李雨霏,刘兆宇 - 深夜到黎明 - 每日推荐
+我只吃晚饭_李雨霏,刘兆宇 - 深夜到黎明 - 每日推荐 √
+
+白挺 - 你从未离去 (2022新版) - 每日推荐
+
+NUANHAO,MINGYANG - Lukas Graham-7 Years（NUANHAO ／ MINGYANG remix） - 每日推荐
+
+水禹,风范 - 少年，请去更高的地方（《百万Up学神天天演我》原创同人曲） - 每日推荐
+
+共青团中央,奇然,词者lyrics - 破浪 - 每日推荐
+
+周深 - 睡个好觉 - 好眠夜主题曲 - 每日推荐
+
+郭采洁 - 我的未来式 - 每日推荐
+
+Michael Schulte - Back to the Start - 每日推荐
