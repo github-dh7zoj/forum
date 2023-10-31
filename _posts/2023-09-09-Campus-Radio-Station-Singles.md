@@ -10,7 +10,7 @@ tags:
     - 官方
 ---
 
-最后更新时间:Sat, 30 Oct 2023 21:30 GMT
+最后更新时间:Sat, 31 Oct 2023 21:15 GMT
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -411,18 +411,30 @@ NUANHAO,MINGYANG - Lukas Graham-7 Years（NUANHAO ／ MINGYANG remix） - 每日
 
 Michael Schulte - Back to the Start - 每日推荐 √
 
-兰青 - 泛舟人 - 徐若岚
+兰青 - 泛舟人 - 徐若岚 √
 
-共青团中央,JuggShots_RADI8,Windapaper_RADI8 - 向前飞 - 每日推荐
+共青团中央,JuggShots_RADI8,Windapaper_RADI8 - 向前飞 - 每日推荐 √
 
 田震 - 风雨彩虹铿锵玫瑰 - 共青团中央 2022年2月6日推荐
 
-周深 - 请笃信一个梦 - 每日推荐
+周深 - 请笃信一个梦 - 每日推荐 √
 
-周深 - This is Me (Live) - 每日推荐
+周深 - This is Me (Live) - 每日推荐 √
 
-五月天 - OAOA (现在就是永远) - 每日推荐
+五月天 - OAOA (现在就是永远) - 每日推荐 √
 
-周深 - 繁星璀璨的天空 - 每日推荐
+周深 - 繁星璀璨的天空 - 每日推荐 √
 
 周深 - 和光同尘 - 每日推荐
+
+华晨宇 - 风之海 - 王若羽
+
+王巨星 - 太阳 - 夏紫怡
+
+朴树 - 平凡之路 - 每日推荐
+
+徐南 - 乘风破浪 - 每日推荐
+
+杨培安 - 我相信 - 每日推荐
+
+周杰伦 - 千山万水 - 每日推荐
