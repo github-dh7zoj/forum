@@ -10,7 +10,7 @@ tags:
     - 官方
 ---
 
-最后更新时间: 08 Nov 2023 19:05 GMT
+最后更新时间: 09 Nov 2023 22:00 GMT
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -469,15 +469,15 @@ Zic子晨 - 半山腰 - 严皓凯 √
 
 Taylor Swift - All Too Well - 孙书言
 
-Maroon 5,Wiz Khalifa - Payphone - 余芊萱
+Maroon 5,Wiz Khalifa - Payphone - 余芊萱 √
 
-就是南方凯（项学凯） - 奋跃而上 - 严皓凯
+就是南方凯（项学凯） - 奋跃而上 - 严皓凯 √
 
-焦迈奇 - 你曾是少年 - 余默浔
+焦迈奇 - 你曾是少年 - 余默浔 √
 
-周深 - 旅途 - 陈欣瑜
+周深 - 旅途 - 陈欣瑜 √
 
-The Rare Occasions - Notion - 刘佳盈
+The Rare Occasions - Notion - 刘佳盈 √
 
 袁咏琳 - 追梦的眼泪 - 每日推荐
 
@@ -487,4 +487,14 @@ Robin Hustin,TobiMorrow,Jex - Light It Up - 每日推荐
 
 Tobu - Life - 每日推荐
 
-南征北战NZBZ - 我们是谁 - 每日推荐
+南征北战NZBZ - 我们是谁 - 每日推荐 √
+
+Beyond - 冲开一切 - 每日推荐
+
+李怡然同学 - 我啊你啊风啊 - 余默浔
+
+周深 - 人是_ - 电影《流浪地球2》定义主题曲 - 陈欣瑜
+
+Jonathan Steingard,Hawk Nelson - Sold Out - 余芊萱 预 13 ③
+
+周杰伦 - 园游会 - 陈志豪
