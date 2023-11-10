@@ -10,7 +10,7 @@ tags:
     - 官方
 ---
 
-最后更新时间: 09 Nov 2023 22:00 GMT
+最后更新时间: 10 Nov 2023 20:35 GMT
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -481,20 +481,26 @@ The Rare Occasions - Notion - 刘佳盈 √
 
 袁咏琳 - 追梦的眼泪 - 每日推荐
 
-周杰伦 - 明明就 - 张皓然
+周杰伦 - 明明就 - 张皓然 √
 
-Robin Hustin,TobiMorrow,Jex - Light It Up - 每日推荐
+Robin Hustin,TobiMorrow,Jex - Light It Up - 每日推荐 √
 
-Tobu - Life - 每日推荐
+Tobu - Life - 每日推荐 √
 
 南征北战NZBZ - 我们是谁 - 每日推荐 √
 
-Beyond - 冲开一切 - 每日推荐
+Beyond - 冲开一切 - 每日推荐 √
 
-李怡然同学 - 我啊你啊风啊 - 余默浔
+李怡然同学 - 我啊你啊风啊 - 余默浔 √
 
-周深 - 人是_ - 电影《流浪地球2》定义主题曲 - 陈欣瑜
+周深 - 人是_ - 电影《流浪地球2》定义主题曲 - 陈欣瑜 √
 
-Jonathan Steingard,Hawk Nelson - Sold Out - 余芊萱 预 13 ③
+Jonathan Steingard,Hawk Nelson - Sold Out
 
 周杰伦 - 园游会 - 陈志豪
+
+周深 - 借梦 - 陈欣瑜
+
+陈奕迅 - 让我留在你身边 - 每日推荐
+
+胡夏 - 知足 - 每日推荐
