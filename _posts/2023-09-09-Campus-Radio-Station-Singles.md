@@ -10,7 +10,7 @@ tags:
     - 官方
 ---
 
-最后更新时间: 10 Nov 2023 20:35 GMT
+最后更新时间: 12 Nov 2023 19:35 GMT
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -467,7 +467,7 @@ Zic子晨 - 半山腰 - 严皓凯 √
 
 张杰 - 逆态度 - 每日推荐 √
 
-Taylor Swift - All Too Well - 孙书言
+Taylor Swift - All Too Well - 孙书言 √
 
 Maroon 5,Wiz Khalifa - Payphone - 余芊萱 √
 
@@ -495,7 +495,7 @@ Beyond - 冲开一切 - 每日推荐 √
 
 周深 - 人是_ - 电影《流浪地球2》定义主题曲 - 陈欣瑜 √
 
-Jonathan Steingard,Hawk Nelson - Sold Out
+Jonathan Steingard,Hawk Nelson - Sold Out - 余芊萱 预 13 ③
 
 周杰伦 - 园游会 - 陈志豪
 
@@ -504,3 +504,7 @@ Jonathan Steingard,Hawk Nelson - Sold Out
 陈奕迅 - 让我留在你身边 - 每日推荐
 
 胡夏 - 知足 - 每日推荐
+
+周深 - 我以渺小爱你 - 环保公益纪实节目 《一路前行》主题曲 - 每日推荐
+
+池鱼,就是南方凯（项学凯）,万垒 - 荆棘之上 - 严皓凯
