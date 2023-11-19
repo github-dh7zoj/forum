@@ -10,7 +10,7 @@ tags:
     - 官方
 ---
 
-最后更新时间: 16 Nov 2023 21:15 GMT
+最后更新时间: 19 Nov 2023 22:35 GMT
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -37,7 +37,7 @@ Shakira - Try Everything - 电影《疯狂动物城》主题曲 - 每日推荐 �
 
 She Her Her Hers - Episode 33 - 王迁涵 √
 
-李润祺 - 茫 - 俞子轩
+李润祺 - 茫 - 俞子轩 √
 
 南征北战NZBZ - 我的天空 - 每日推荐 √
 
@@ -95,7 +95,7 @@ Taylor Swift - Anti-Hero - 郭哲辰 √
 
 Lauv - Lonely Eyes - 余默浔 √
 
-Bebe Rexha - Ferrari - 余默浔
+Bebe Rexha - Ferrari - 余默浔 √
 
 鹿先森乐队 - 春风十里 - 余默浔 √
 
@@ -111,7 +111,7 @@ Lazer Boomerang - Time to Pretend - 余默浔 √
 
 黄子弘凡 - 笑饮孤鸿 - 孙书言 √
 
-黄子弘凡 - 成为你想成为的大人 - 孙书言
+黄子弘凡 - 成为你想成为的大人 - 孙书言 √
 
 吴子健REmi - 难书 - 每日推荐 √
 
@@ -185,7 +185,7 @@ Zedd,Jon Bellion - Beautiful Now - 黄宇翔 √
 
 王力宏,谭维维 - 缘分一道桥 - 电影《长城》片尾曲 - 每日推荐  √
 
-大张伟 - 世上最美好的祈祷 - 电影《你好，李焕英》片尾曲 - 每日推荐
+大张伟 - 世上最美好的祈祷 - 电影《你好，李焕英》片尾曲 - 每日推荐 √
 
 汪苏泷 - 闪耀 - 柴思婷 √
 
@@ -297,7 +297,7 @@ ANU - 飞 - 电视剧《少年派2》片头曲 - 每日推荐 √
 
 洪辰 - 勇往直前 伴奏 - 《熊出没之探险日记》主题曲 - 每日推荐 √
 
-陈雪燃 - 无名之辈 - 每日推荐
+陈雪燃 - 无名之辈 - 每日推荐 √
 
 Em Beihold - Numb Little Bug - 邬瑞凝 √
 
@@ -527,8 +527,14 @@ Beyond - 谁伴我闯荡 - 电影《Beyond日记之莫欺少年穷》插曲 - �
 
 蓝波 - 迎着风 - 电影《四平青年之浩哥大战古惑仔》主题曲 - 每日推荐
 
-Beyond - 真的爱你 - 每日推荐
+Beyond - 真的爱你 - 每日推荐 √
 
 司南 - 星星在唱歌 - 每日推荐
 
 Cassadee Pope,Nash Overstreet,Brett Boyett - I Am Invincible - 每日推荐
+
+周深 - 云裳羽衣曲 - 陈欣瑜
+
+Gabriela Bee - I'll Be There - 每日推荐
+
+Beyond - 冲上云霄 - 每日推荐
