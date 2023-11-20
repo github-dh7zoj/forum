@@ -10,7 +10,7 @@ tags:
     - 官方
 ---
 
-最后更新时间: 19 Nov 2023 22:35 GMT
+最后更新时间: 20 Nov 2023 21:10 GMT
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -525,16 +525,32 @@ Beyond - 谁伴我闯荡 - 电影《Beyond日记之莫欺少年穷》插曲 - �
 
 宋雨琦 - 造浪 - 《我要逆风去》电视剧主题曲 - 胡仟渝 √
 
-蓝波 - 迎着风 - 电影《四平青年之浩哥大战古惑仔》主题曲 - 每日推荐
+蓝波 - 迎着风 - 电影《四平青年之浩哥大战古惑仔》主题曲 - 每日推荐 √
 
 Beyond - 真的爱你 - 每日推荐 √
 
-司南 - 星星在唱歌 - 每日推荐
+司南 - 星星在唱歌 - 每日推荐 √
 
-Cassadee Pope,Nash Overstreet,Brett Boyett - I Am Invincible - 每日推荐
+Cassadee Pope,Nash Overstreet,Brett Boyett - I Am Invincible - 每日推荐 √
 
-周深 - 云裳羽衣曲 - 陈欣瑜
+周深 - 云裳羽衣曲 - 陈欣瑜 √
 
-Gabriela Bee - I'll Be There - 每日推荐
+Gabriela Bee - I'll Be There - 每日推荐 √
 
-Beyond - 冲上云霄 - 每日推荐
+Beyond - 冲上云霄 - 每日推荐 √
+
+Connie Talbot - Count on Me - 每日推荐
+
+乔杉 - 塑料袋 - 电影《缝纫机乐队》插曲 - 每日推荐
+
+大鹏,黄贯中,叶世荣 - 不再犹豫 (Remix版) - 电影《缝纫机乐队》插曲 - 每日推荐
+
+黄家驹,大鹏 - 再见理想 (Remix版) - 电影《缝纫机乐队》插曲 - 每日推荐
+
+Beyond - 再见理想 - 每日推荐
+
+周深 - 可它爱着这个世界 - 陈欣瑜
+
+Jake Miller - Click - 每日推荐
+
+沈以诚 - 乘风而起 - 电视剧《风暴舞》插曲 - 每日推荐
