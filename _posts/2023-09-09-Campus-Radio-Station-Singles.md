@@ -10,7 +10,7 @@ tags:
     - 官方
 ---
 
-最后更新时间: 22 Nov 2023 18:50 GMT
+最后更新时间: 23 Nov 2023 22:20 GMT
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -141,17 +141,17 @@ m-taku - Komorebi - 严皓凯 √
 
 TFBOYS - 不完美小孩 - 洪睿晗 √
 
-Da-iCE - Two As One - 俞冠羽
+Da-iCE - Two As One - 剧场版《欧布奥特曼 羁绊之力借我一用!》主题曲 - 俞冠羽
 
 Snigellin - When I see the light at that Time - 余芊萱 √
 
 承桓 - 我会等 - 余芊萱 √
 
-周杰伦 - 爱在西元前 - 余芊萱  √
+周杰伦 - 爱在西元前 - 余芊萱 √
 
 Anson Seabra - Peter Pan Was Right - 余芊萱 √
 
-Hillsong Young & Free - Wake (Studio) - 每日推荐 - 余芊萱 - 徐若岚 - 楼泓池（普陀第二中学） and more? √
+Hillsong Young & Free - Wake (Studio) - 每日推荐 √
 
 周杰伦 - 晴天 - 姚芊羽 √
 
@@ -545,7 +545,7 @@ Connie Talbot - Count on Me - 每日推荐 √
 
 大鹏,黄贯中,叶世荣 - 不再犹豫 (Remix版) - 电影《缝纫机乐队》插曲 - 每日推荐 √
 
-黄家驹,大鹏 - 再见理想 (Remix版) - 电影《缝纫机乐队》插曲 - 每日推荐
+黄家驹,大鹏 - 再见理想 (Remix版) - 电影《缝纫机乐队》插曲 - 每日推荐 √
 
 Beyond - 再见理想 - 每日推荐
 
@@ -555,12 +555,18 @@ Jake Miller - Click - 每日推荐 √
 
 沈以诚 - 乘风而起 - 电视剧《风暴舞》插曲 - 每日推荐 √
 
-凤凰传奇 - 天蓝蓝 - 每日推荐
+凤凰传奇 - 天蓝蓝 - 每日推荐 √
 
-凤凰传奇 - 秋画 - 每日推荐
+凤凰传奇 - 秋画 - 每日推荐 √
 
-周深 - I'm A Star - 电影《星愿》许愿星之歌 - 每日推荐
+周深 - I'm A Star - 电影《星愿》许愿星之歌 - 每日推荐 √
 
-周深,GAI周延 - 玫瑰少年 (Live) - 陈欣瑜
+周深,GAI周延 - 玫瑰少年 (Live) - 陈欣瑜 √
 
-Jay Bombay,NEIMY - Difficult - 每日推荐
+Jay Bombay,NEIMY - Difficult - 每日推荐 √
+
+Cozi Zuehlsdorff,Vicetone - Way Back - 每日推荐
+
+Nene郑乃馨 - All About That Day - 每日推荐
+
+周深 - 卡布叻船长 - 陈欣瑜
