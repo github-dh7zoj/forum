@@ -10,7 +10,7 @@ tags:
     - 官方
 ---
 
-最后更新时间: 23 Nov 2023 22:20 GMT
+最后更新时间: 26 Nov 2023 19:35 GMT
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -341,7 +341,7 @@ The Chainsmokers、Coldplay - Something Just Like This - 邬瑞凝 √
 
 崔伟立 - 酒醉的蝴蝶 - 程榆涵
 
-林俊杰 - 新地球 - 缪柯言
+林俊杰 - 新地球 - 缪柯言 √
 
 井胧、井迪 - 骁 - 每日推荐 √
 
@@ -371,7 +371,7 @@ GooGoo - 我的纸飞机 (纯享版) - 余默浔 √
 
 张杰、张靓颖 - 沉香 - 方蓓淇 √
 
-The Glitch Mob,Mako,The Word Alive - RISE - 陈姝含
+The Glitch Mob,Mako,The Word Alive - RISE - 陈姝含 √
 
 郭静 - 青春不打烊 - 每日推荐 √
 
@@ -565,8 +565,18 @@ Jake Miller - Click - 每日推荐 √
 
 Jay Bombay,NEIMY - Difficult - 每日推荐 √
 
-Cozi Zuehlsdorff,Vicetone - Way Back - 每日推荐
+Cozi Zuehlsdorff,Vicetone - Way Back - 每日推荐 √
 
-Nene郑乃馨 - All About That Day - 每日推荐
+Nene郑乃馨 - All About That Day - 每日推荐 √
 
-周深 - 卡布叻船长 - 陈欣瑜
+周深 - 卡布叻船长 - 陈欣瑜 √
+
+GALA - 追梦赤子心 - 每日推荐
+
+Mike Perry,SHY Martin - The Ocean (Radio Edit) - 每日推荐
+
+TheFatRat - Rise Up - 每日推荐
+
+无风即风,天府事变 - 你在我心里面 - 动漫《那年那兔那些事儿》主题曲作品征集三等奖 - 每日推荐
+
+周深 - Try Everything (Live) - 每日推荐
