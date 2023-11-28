@@ -10,7 +10,7 @@ tags:
     - 官方
 ---
 
-最后更新时间: 26 Nov 2023 19:35 GMT
+最后更新时间: 28 Nov 2023 20:45 GMT
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -571,12 +571,30 @@ Nene郑乃馨 - All About That Day - 每日推荐 √
 
 周深 - 卡布叻船长 - 陈欣瑜 √
 
-GALA - 追梦赤子心 - 每日推荐
+GALA - 追梦赤子心 - 每日推荐 √
 
-Mike Perry,SHY Martin - The Ocean (Radio Edit) - 每日推荐
+Mike Perry,SHY Martin - The Ocean (Radio Edit) - 每日推荐 √
 
-TheFatRat - Rise Up - 每日推荐
+TheFatRat - Rise Up - 每日推荐 √
 
-无风即风,天府事变 - 你在我心里面 - 动漫《那年那兔那些事儿》主题曲作品征集三等奖 - 每日推荐
+无风即风,天府事变 - 你在我心里面 - 动漫《那年那兔那些事儿》主题曲作品征集三等奖 - 每日推荐 √
 
-周深 - Try Everything (Live) - 每日推荐
+周深 - Try Everything (Live) - 每日推荐 √
+
+陈奕迅 - 十年 - 每日推荐 √
+
+璨乐团 - 飞-致我们的星辰大海 - 动画《那年那兔那些事儿》第三季片尾曲 - 每日推荐 √
+
+易烊千玺 - Unpredictable - 洪睿晗 √
+
+易烊千玺 - Nothing to Lose - 每日推荐 √
+
+周深 - 听见下雨的声音 (Live版) - 每日推荐
+
+阿鲲 - 训练生活 - 每日推荐
+
+孟美岐 - 有种 - 电影《流浪地球》推广曲 - 每日推荐
+
+张韶涵、周深 - 一路生花 (Live) - 每日推荐
+
+阿鲲 - 前行 - 每日推荐
