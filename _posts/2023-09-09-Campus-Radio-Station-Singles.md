@@ -10,7 +10,7 @@ tags:
     - 官方
 ---
 
-最后更新时间: 28 Nov 2023 20:45 GMT
+最后更新时间: 29 Nov 2023 23:20 GMT
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -589,12 +589,24 @@ TheFatRat - Rise Up - 每日推荐 √
 
 易烊千玺 - Nothing to Lose - 每日推荐 √
 
-周深 - 听见下雨的声音 (Live版) - 每日推荐
+周深 - 听见下雨的声音 (Live版) - 每日推荐 √
 
-阿鲲 - 训练生活 - 每日推荐
+阿鲲 - 训练生活 - 每日推荐 √
 
-孟美岐 - 有种 - 电影《流浪地球》推广曲 - 每日推荐
+孟美岐 - 有种 - 电影《流浪地球》推广曲 - 每日推荐 √
 
-张韶涵、周深 - 一路生花 (Live) - 每日推荐
+张韶涵、周深 - 一路生花 (Live) - 每日推荐 √
 
-阿鲲 - 前行 - 每日推荐
+阿鲲 - 前行 - 每日推荐 √
+
+Barbie - Life in the Dreamhouse - 翁尔蔚
+
+GooGoo,王之睿 - 我的纸飞机 - 每日推荐
+
+Jim Yosef,Electro-Light,Tobu - Destiny - 每日推荐
+
+周深 - 自己按门铃自己听 (Live) - 陈欣瑜
+
+ARMNHMR,Melanie Fontana - Forever Young (feat. Melanie Fontana) - 每日推荐
+
+Romantic Saxophone Quintet - Right Here Waiting - 每日推荐
