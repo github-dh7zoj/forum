@@ -10,7 +10,7 @@ tags:
     - 官方
 ---
 
-最后更新时间: 29 Nov 2023 23:20 GMT
+最后更新时间: 30 Nov 2023 21:50 GMT
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -599,14 +599,26 @@ TheFatRat - Rise Up - 每日推荐 √
 
 阿鲲 - 前行 - 每日推荐 √
 
-Barbie - Life in the Dreamhouse - 翁尔蔚
+Barbie - Life in the Dreamhouse - 翁尔蔚 √
 
-GooGoo,王之睿 - 我的纸飞机 - 每日推荐
+GooGoo,王之睿 - 我的纸飞机 - 每日推荐 √
 
-Jim Yosef,Electro-Light,Tobu - Destiny - 每日推荐
+Jim Yosef,Electro-Light,Tobu - Destiny - 每日推荐 √
 
-周深 - 自己按门铃自己听 (Live) - 陈欣瑜
+周深 - 自己按门铃自己听 (Live) - 陈欣瑜 √
 
-ARMNHMR,Melanie Fontana - Forever Young (feat. Melanie Fontana) - 每日推荐
+ARMNHMR,Melanie Fontana - Forever Young (feat. Melanie Fontana) - 每日推荐 √
 
-Romantic Saxophone Quintet - Right Here Waiting - 每日推荐
+Romantic Saxophone Quintet - Right Here Waiting - 每日推荐 √
+
+亭淼 - 梦的光点 - 神兵小将主题曲 - 陈禹帆
+
+Avicii,Nicholas Furlong - The Nights - 每日推荐
+
+Bandari - Moonglow - 每日推荐
+
+范玮琪,张云凌,杨超毅 - 最初的梦想 - 每日推荐
+
+周深 - 花开忘忧 - 陈欣瑜
+
+闻人听書_ - 一笑江湖 - 每日推荐
