@@ -10,7 +10,7 @@ tags:
     - 官方
 ---
 
-最后更新时间: 30 Nov 2023 21:50 GMT
+最后更新时间: 02 Dec 2023 12:15
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -611,14 +611,30 @@ ARMNHMR,Melanie Fontana - Forever Young (feat. Melanie Fontana) - 每日推荐 �
 
 Romantic Saxophone Quintet - Right Here Waiting - 每日推荐 √
 
-亭淼 - 梦的光点 - 神兵小将主题曲 - 陈禹帆
+亭淼 - 梦的光点 - 神兵小将主题曲 - 陈禹帆 √
 
-Avicii,Nicholas Furlong - The Nights - 每日推荐
+Avicii,Nicholas Furlong - The Nights - 每日推荐 √
 
-Bandari - Moonglow - 每日推荐
+Bandari - Moonglow - 每日推荐 √
 
-范玮琪,张云凌,杨超毅 - 最初的梦想 - 每日推荐
+范玮琪,张云凌,杨超毅 - 最初的梦想 - 每日推荐 √
 
-周深 - 花开忘忧 - 陈欣瑜
+周深 - 花开忘忧 - 陈欣瑜 √
 
-闻人听書_ - 一笑江湖 - 每日推荐
+闻人听書_ - 一笑江湖 - 每日推荐 √
+
+Capo Productions - Journey - 每日推荐
+
+Refeci,Emelie Cyréus - Die Hard - 每日推荐
+
+陈奕迅 - 相信你的人 (热血励志版) - 电影《银河补习班》推广曲 - 每日推荐
+
+熊猫堂ProducePandas - 以梦为马 - 每日推荐
+
+买辣椒也用券 - 有光 - 每日推荐
+
+周深 - 过尽千帆 - 每日推荐
+
+周深 - 追赶春天的人 - 每日推荐
+
+周深 - 跳舞的月光 - 每日推荐
