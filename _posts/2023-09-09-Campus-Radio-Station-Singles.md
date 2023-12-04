@@ -10,7 +10,7 @@ tags:
     - 官方
 ---
 
-最后更新时间: 02 Dec 2023 12:15
+最后更新时间: 04 Dec 2023 23:10
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -623,18 +623,26 @@ Bandari - Moonglow - 每日推荐 √
 
 闻人听書_ - 一笑江湖 - 每日推荐 √
 
-Capo Productions - Journey - 每日推荐
+Capo Productions - Journey - 每日推荐 √
 
-Refeci,Emelie Cyréus - Die Hard - 每日推荐
+Refeci,Emelie Cyréus - Die Hard - 每日推荐 √
 
-陈奕迅 - 相信你的人 (热血励志版) - 电影《银河补习班》推广曲 - 每日推荐
+陈奕迅 - 相信你的人 (热血励志版) - 电影《银河补习班》推广曲 - 每日推荐 √
 
-熊猫堂ProducePandas - 以梦为马 - 每日推荐
+熊猫堂ProducePandas - 以梦为马 - 每日推荐 √
 
-买辣椒也用券 - 有光 - 每日推荐
+买辣椒也用券 - 有光 - 每日推荐 √
 
 周深 - 过尽千帆 - 每日推荐
 
-周深 - 追赶春天的人 - 每日推荐
+周深 - 追赶春天的人 - 每日推荐 √
 
 周深 - 跳舞的月光 - 每日推荐
+
+Karunesh - Follow Your Heart - 每日推荐
+
+周深 - 若思念便思念 - 陈欣瑜
+
+徐佳莹 - 一样的月光 - 夏爱雅
+
+King CAAN - Go Again (Instrumental version) - 胡轶凯
