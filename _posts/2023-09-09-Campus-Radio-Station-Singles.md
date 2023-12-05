@@ -10,7 +10,7 @@ tags:
     - 官方
 ---
 
-最后更新时间: 04 Dec 2023 23:10
+最后更新时间: 05 Dec 2023 23:10
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -543,6 +543,9 @@ Connie Talbot - Count on Me - 每日推荐 √
 
 乔杉 - 塑料袋 - 电影《缝纫机乐队》插曲 - 每日推荐 √
 
+James Horner - The Ludlows - 电影《燃情岁月》插曲 - 每日推荐
+
+
 大鹏,黄贯中,叶世荣 - 不再犹豫 (Remix版) - 电影《缝纫机乐队》插曲 - 每日推荐 √
 
 黄家驹,大鹏 - 再见理想 (Remix版) - 电影《缝纫机乐队》插曲 - 每日推荐 √
@@ -633,16 +636,20 @@ Refeci,Emelie Cyréus - Die Hard - 每日推荐 √
 
 买辣椒也用券 - 有光 - 每日推荐 √
 
-周深 - 过尽千帆 - 每日推荐
+周深 - 过尽千帆 - 每日推荐 √
 
 周深 - 追赶春天的人 - 每日推荐 √
 
 周深 - 跳舞的月光 - 每日推荐
 
-Karunesh - Follow Your Heart - 每日推荐
+Karunesh - Follow Your Heart - 每日推荐 √
 
-周深 - 若思念便思念 - 陈欣瑜
+周深 - 若思念便思念 - 陈欣瑜 √
 
-徐佳莹 - 一样的月光 - 夏爱雅
+徐佳莹 - 一样的月光 - 夏爱雅 √
 
-King CAAN - Go Again (Instrumental version) - 胡轶凯
+King CAAN - Go Again (Instrumental version) - 胡轶凯 √
+
+TheFatRat,Laura Brehm - We'll Meet Again - 每日推荐
+
+许巍 - 无尽光芒 - 每日推荐
