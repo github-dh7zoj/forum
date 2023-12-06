@@ -10,7 +10,7 @@ tags:
     - 官方
 ---
 
-最后更新时间: 05 Dec 2023 23:10
+最后更新时间: 06 Dec 2023 23:00
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -87,9 +87,7 @@ Beyond - 海阔天空 - 赖致远 √
 
 Mr. Polska - Move Up (Lost Gravity) - 徐泽阳 √
 
-Marshmello - Alone - 李骧(舟山市第一初级中学)
-
-HOYO-MiX,Anthony Lynch - 踏上旅途 Take the Journey - 孙睿煊 - 南海实验学校(旌旗山初中校区) √
+HOYO-MiX,Anthony Lynch - 踏上旅途 Take the Journey - 每日推荐 √
 
 Taylor Swift - Anti-Hero - 郭哲辰 √
 
@@ -183,7 +181,7 @@ Zedd,Jon Bellion - Beautiful Now - 黄宇翔 √
 
 梦然 - 是你 - 每日推荐 √
 
-王力宏,谭维维 - 缘分一道桥 - 电影《长城》片尾曲 - 每日推荐  √
+王力宏,谭维维 - 缘分一道桥 - 电影《长城》片尾曲 - 每日推荐 √
 
 大张伟 - 世上最美好的祈祷 - 电影《你好，李焕英》片尾曲 - 每日推荐 √
 
@@ -199,7 +197,7 @@ Zedd,Jon Bellion - Beautiful Now - 黄宇翔 √
 
 MANTA - 断臂的维纳斯 - 张琪乔 √
 
-Toby Fox - His Theme ▸ Sprightly (DJ20001S1版) - 陈志豪  √
+Toby Fox - His Theme ▸ Sprightly (DJ20001S1版) - 陈志豪 √
 
 YOASOBI,Midories - The Swallow (feat. Midories) - 毛睿一
 
@@ -230,8 +228,6 @@ Taylor Swift - You Need To Calm Down - 胡仟渝
 周深 - 我，江湖！ - 每日推荐 √
 
 共青团中央,青年湖南,Windapaper_RADI8 - 星火 - 每日推荐 √
-
-指弹《夜曲》 - 每日推荐
 
 呼斯乐 - 青春火焰 - 每日推荐 √
 
@@ -327,7 +323,7 @@ The Chainsmokers、Coldplay - Something Just Like This - 邬瑞凝 √
 
 王晓天 - 荣耀 - 每日推荐 √
 
-奇然,沈谧仁 - 琵琶行 - 李骧(舟山市第一初级中学) - (黄炯凯) √
+奇然,沈谧仁 - 琵琶行 - 黄炯凯 √
 
 凤凰传奇 - 月亮之上 - 每日推荐 √
 
@@ -543,14 +539,13 @@ Connie Talbot - Count on Me - 每日推荐 √
 
 乔杉 - 塑料袋 - 电影《缝纫机乐队》插曲 - 每日推荐 √
 
-James Horner - The Ludlows - 电影《燃情岁月》插曲 - 每日推荐
-
+James Horner - The Ludlows - 电影《燃情岁月》插曲 - 每日推荐 √
 
 大鹏,黄贯中,叶世荣 - 不再犹豫 (Remix版) - 电影《缝纫机乐队》插曲 - 每日推荐 √
 
 黄家驹,大鹏 - 再见理想 (Remix版) - 电影《缝纫机乐队》插曲 - 每日推荐 √
 
-Beyond - 再见理想 - 每日推荐
+Beyond - 再见理想 - 每日推荐 √
 
 周深 - 可它爱着这个世界 - 陈欣瑜 √
 
@@ -650,6 +645,16 @@ Karunesh - Follow Your Heart - 每日推荐 √
 
 King CAAN - Go Again (Instrumental version) - 胡轶凯 √
 
-TheFatRat,Laura Brehm - We'll Meet Again - 每日推荐
+TheFatRat,Laura Brehm - We'll Meet Again - 每日推荐 √
 
-许巍 - 无尽光芒 - 每日推荐
+许巍 - 无尽光芒 - 每日推荐 √
+
+韩红,林俊杰 - 飞云之下 - 蒲俊宇
+
+房东的猫 - 美好事物 - 每日推荐
+
+Jon Schmidt - Love Story meets Viva La Vida - 每日推荐
+
+Maroon 5,Kendrick Lamar - Don't Wanna Know - 李柳玉丹
+
+MKJ,Jessica Chertock - Frontlines - 每日推荐
