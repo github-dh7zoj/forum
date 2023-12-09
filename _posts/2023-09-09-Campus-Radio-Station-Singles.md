@@ -10,7 +10,7 @@ tags:
     - 官方
 ---
 
-最后更新时间: 07 Dec 2023 22:25
+最后更新时间: 09 Dec 2023 17:10
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -659,16 +659,22 @@ Maroon 5,Kendrick Lamar - Don't Wanna Know - 李柳玉丹 √
 
 MKJ,Jessica Chertock - Frontlines - 每日推荐 √
 
-Interupt,Luna LePage - Power (In Your Soul) - 李柳玉丹
+Interupt,Luna LePage - Power (In Your Soul) - 李柳玉丹 √
 
-Alan Walker,Sabrina Carpenter,Farruko - On My Way - 李柳玉丹
+Alan Walker,Sabrina Carpenter,Farruko - On My Way - 李柳玉丹 √
 
-杨宗纬 - 我想要 (Live) - 蒲俊宇
+杨宗纬 - 我想要 (Live) - 蒲俊宇 √
 
 Мельница - Белая кошка(小白猫) - 陈禹帆
 
-周志华,杨闵杰 - 薰衣草、爱人心 The Lavender Semll;Lover Heart - 每日推荐
+周志华,杨闵杰 - 薰衣草、爱人心 The Lavender Semll;Lover Heart - 每日推荐 √
 
 司南 - 梦与星海之间 - 余默浔
 
-队长 - 杏花雨绵 - 每日推荐
+队长 - 杏花雨绵 - 每日推荐 √
+
+Tungevaag - Vidorra - 每日推荐
+
+凤凰传奇 - 我从草原来 - 每日推荐
+
+魏琮霏 - 青石巷 - 每日推荐
