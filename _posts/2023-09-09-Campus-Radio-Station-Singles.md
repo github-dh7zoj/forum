@@ -10,7 +10,7 @@ tags:
     - 官方
 ---
 
-最后更新时间: 09 Dec 2023 17:10
+最后更新时间: 11 Dec 2023 23:15
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -665,16 +665,28 @@ Alan Walker,Sabrina Carpenter,Farruko - On My Way - 李柳玉丹 √
 
 杨宗纬 - 我想要 (Live) - 蒲俊宇 √
 
-Мельница - Белая кошка(小白猫) - 陈禹帆
+Мельница - Белая кошка(小白猫) - 陈禹帆 √
 
 周志华,杨闵杰 - 薰衣草、爱人心 The Lavender Semll;Lover Heart - 每日推荐 √
 
-司南 - 梦与星海之间 - 余默浔
+司南 - 梦与星海之间 - 余默浔 √
 
 队长 - 杏花雨绵 - 每日推荐 √
 
-Tungevaag - Vidorra - 每日推荐
+Tungevaag - Vidorra - 每日推荐 √
 
-凤凰传奇 - 我从草原来 - 每日推荐
+凤凰传奇 - 我从草原来 - 每日推荐 √
 
-魏琮霏 - 青石巷 - 每日推荐
+魏琮霏 - 青石巷 - 每日推荐 √
+
+很美味 - April Encounter - 张皓然
+
+凤凰传奇 - 自由飞翔 - 每日推荐
+
+杨菲洋,VIVI - 开心往前飞 - 蒲俊宇
+
+Imagine Dragons - Whatever It Takes - 每日推荐
+
+哏德全 - 月光下的凤尾竹 - 每日推荐
+
+凤凰传奇 - 望星辰 - 每日推荐
