@@ -10,7 +10,7 @@ tags:
     - 官方
 ---
 
-最后更新时间: 11 Dec 2023 23:15
+最后更新时间: 12 Dec 2023 23:25
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -679,14 +679,20 @@ Tungevaag - Vidorra - 每日推荐 √
 
 魏琮霏 - 青石巷 - 每日推荐 √
 
-很美味 - April Encounter - 张皓然
+很美味 - April Encounter - 张皓然 √
 
-凤凰传奇 - 自由飞翔 - 每日推荐
+凤凰传奇 - 自由飞翔 - 每日推荐 √
 
-杨菲洋,VIVI - 开心往前飞 - 蒲俊宇
+杨菲洋,VIVI - 开心往前飞 - 蒲俊宇 √
 
 Imagine Dragons - Whatever It Takes - 每日推荐
 
-哏德全 - 月光下的凤尾竹 - 每日推荐
+哏德全 - 月光下的凤尾竹 - 每日推荐 √
 
-凤凰传奇 - 望星辰 - 每日推荐
+凤凰传奇 - 望星辰 - 每日推荐 √
+
+缝纫机乐队 - 都选C - 电影《缝纫机乐队》主题曲 - 每日推荐
+
+Vicetone,Kat Nestel - Angels (Extended Mix) - 陈冠羽
+
+Alan Walker - Faded - 每日推荐
