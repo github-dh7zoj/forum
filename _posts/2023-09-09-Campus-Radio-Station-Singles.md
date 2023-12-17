@@ -10,7 +10,7 @@ tags:
     - 官方
 ---
 
-最后更新时间: 14 Dec 2023 22:00
+最后更新时间: 17 Dec 2023 18:10
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -709,12 +709,34 @@ Ash - Melody (Original mix) - 每日推荐 √
 
 阿南亮子 - Refrain - 每日推荐
 
-단비 - Tears In Pink Rain(粉色雨中的泪水) - 每日推荐
+단비 - Tears In Pink Rain(粉色雨中的泪水) - 每日推荐 √
 
-Alan Walker,宋雨琦,(G)I-DLE - Fire! (feat. YUQI ((G)I-DLE), JVKE) - 每日推荐
+Alan Walker,宋雨琦,(G)I-DLE - Fire! (feat. YUQI ((G)I-DLE), JVKE) - 每日推荐 √
 
-周杰伦 - 蒲公英的约定 - 虞可欣
+周杰伦 - 蒲公英的约定 - 虞可欣 √
 
-凤凰传奇 - 云山 - 每日推荐
+凤凰传奇 - 云山 - 每日推荐 √
 
-马嘉祺 - 狼(Live) - 傅瑾渲
+马嘉祺 - 狼(Live) - 傅瑾渲 √
+
+高宾艺术团交响乐团,ZZMUSIC跨界交响大乐团 - 友谊地久天长 - 每日推荐
+
+杨世贸,Crazy Bucket 陈楒潼,Dk澄 - 花灯俏 (Waffles Remix) - 每日推荐
+
+李玉刚,Kirsty刘瑾睿 - LaoShui Edit X《若把你 · 声声慢》- 2022最美的夜 bilibili晚会 二创 - 每日推荐
+
+接个吻，开一枪,火鸡,吕口口 - 春风十里报新年 - 每日推荐
+
+Theiaの阿旋酱 - Iridescent（彩虹色） - 每日推荐
+
+张韶涵 - 阿刁 (Live) - 每日推荐
+
+Alan Walker - The Spectre - 李柳玉丹
+
+周杰伦 - 好久不见 - 姚芊羽
+
+苏逸_Suyi,洛天依 - 一梦千宵 - 郏扬菡
+
+鲁士郎 - 灌篮青春 - 《喜羊羊与灰太狼之筐出未来》大电影插曲 - 蒲俊宇
+
+哏德全 - 竹林深处 - 每日推荐
