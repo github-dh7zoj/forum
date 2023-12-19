@@ -10,7 +10,7 @@ tags:
     - 官方
 ---
 
-最后更新时间: 18 Dec 2023 21:30
+最后更新时间: 19 Dec 2023 22:10
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -741,12 +741,18 @@ Alan Walker - The Spectre - 李柳玉丹 √
 
 哏德全 - 竹林深处 - 每日推荐 √
 
-Madnap,Pauline Herr - Slow Down - 余芊萱
+Madnap,Pauline Herr - Slow Down - 余芊萱 √
 
-Bea Miller - Open Your Eyes (Deep Blue Songspell) - 李柳玉丹
+Bea Miller - Open Your Eyes (Deep Blue Songspell) - 李柳玉丹 √
 
-艾夫 - 梦海（华中科技大学2023年研究生毕业典礼主题曲） - 每日推荐
+艾夫 - 梦海（华中科技大学2023年研究生毕业典礼主题曲） - 每日推荐 √
 
-王若冰 - 感恩每一天 - 每日推荐
+王若冰 - 感恩每一天 - 每日推荐 √
 
-哏德全 - 彩云追月 - 每日推荐
+哏德全 - 彩云追月 - 每日推荐 √
+
+Cartoon,Futuristik,Mikk Mäe - C U Again - 陈冠羽
+
+Imagine Dragons - It's Time - 每日推荐
+
+周志华,杨闵杰 - 薰衣草 The Lavender - 每日推荐
