@@ -10,7 +10,7 @@ tags:
     - 官方
 ---
 
-最后更新时间: 19 Dec 2023 22:10
+最后更新时间: 20 Dec 2023 21:45
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -729,7 +729,7 @@ Alan Walker,宋雨琦,(G)I-DLE - Fire! (feat. YUQI ((G)I-DLE), JVKE) - 每日推
 
 Theiaの阿旋酱 - Iridescent（彩虹色） - 每日推荐
 
-张韶涵 - 阿刁 (Live) - 每日推荐
+张韶涵 - 阿刁 (Live) - 每日推荐 √
 
 Alan Walker - The Spectre - 李柳玉丹 √
 
@@ -751,8 +751,16 @@ Bea Miller - Open Your Eyes (Deep Blue Songspell) - 李柳玉丹 √
 
 哏德全 - 彩云追月 - 每日推荐 √
 
-Cartoon,Futuristik,Mikk Mäe - C U Again - 陈冠羽
+Cartoon,Futuristik,Mikk Mäe - C U Again - 陈冠羽 √
 
-Imagine Dragons - It's Time - 每日推荐
+Imagine Dragons - It's Time - 每日推荐 √
 
-周志华,杨闵杰 - 薰衣草 The Lavender - 每日推荐
+周志华,杨闵杰 - 薰衣草 The Lavender - 每日推荐 √
+
+林俊杰 - Always Online - 每日推荐
+
+就是南方凯（项学凯） - 生命不止 - 每日推荐
+
+周深 - 若梦 - 每日推荐
+
+杨楚骁 - 花语（Flower Words） - 每日推荐
