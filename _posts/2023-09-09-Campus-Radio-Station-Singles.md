@@ -10,7 +10,7 @@ tags:
     - 官方
 ---
 
-最后更新时间: 20 Dec 2023 21:45
+最后更新时间: 24 Dec 2023 18:25
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -757,10 +757,20 @@ Imagine Dragons - It's Time - 每日推荐 √
 
 周志华,杨闵杰 - 薰衣草 The Lavender - 每日推荐 √
 
-林俊杰 - Always Online - 每日推荐
+林俊杰 - Always Online - 每日推荐 √
 
-就是南方凯（项学凯） - 生命不止 - 每日推荐
+就是南方凯（项学凯） - 生命不止 - 每日推荐 √
 
-周深 - 若梦 - 每日推荐
+周深 - 若梦 - 每日推荐 √
 
-杨楚骁 - 花语（Flower Words） - 每日推荐
+杨楚骁 - 花语（Flower Words） - 每日推荐 √
+
+Kenny G - Jasmine Flower - 每日推荐 √
+
+就是南方凯（项学凯） - 离别开出花 - 每日推荐
+
+Zac Efron,Zendaya - Rewrite The Stars - 邬瑞凝
+
+余雨 - 再见深海（微亮的瞬间） - 吴婧溦
+
+队长 - 我追不上以前那个发光的自己了 - 每日推荐
