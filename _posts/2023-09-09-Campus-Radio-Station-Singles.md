@@ -10,7 +10,7 @@ tags:
     - 官方
 ---
 
-最后更新时间: 24 Dec 2023 18:25
+最后更新时间: 25 Dec 2023 21:45
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -707,7 +707,7 @@ Little Play - The Heart of the Ocean - 每日推荐 √
 
 Ash - Melody (Original mix) - 每日推荐 √
 
-阿南亮子 - Refrain - 每日推荐
+阿南亮子 - Refrain - 每日推荐 √
 
 단비 - Tears In Pink Rain(粉色雨中的泪水) - 每日推荐 √
 
@@ -767,10 +767,20 @@ Imagine Dragons - It's Time - 每日推荐 √
 
 Kenny G - Jasmine Flower - 每日推荐 √
 
-就是南方凯（项学凯） - 离别开出花 - 每日推荐
+就是南方凯（项学凯） - 离别开出花 - 每日推荐 √
 
-Zac Efron,Zendaya - Rewrite The Stars - 邬瑞凝
+Zac Efron,Zendaya - Rewrite The Stars - 邬瑞凝 √
 
-余雨 - 再见深海（微亮的瞬间） - 吴婧溦
+余雨 - 再见深海（微亮的瞬间） - 吴婧溦 √
 
-队长 - 我追不上以前那个发光的自己了 - 每日推荐
+队长 - 我追不上以前那个发光的自己了 - 每日推荐 √
+
+苏运莹 - 月下 - 李柳玉丹
+
+Tommee Profitt,Wondra - I'm Not Afraid - 每日推荐
+
+阳花,杨世贸 - 梦回古城 - 每日推荐
+
+张韶涵 - 隐形的翅膀 - 每日推荐
+
+Secret Garden - Anticipation - 每日推荐
