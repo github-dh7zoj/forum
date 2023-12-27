@@ -10,7 +10,7 @@ tags:
     - 官方
 ---
 
-最后更新时间: 25 Dec 2023 21:45
+最后更新时间: 27 Dec 2023 22:00
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -775,12 +775,12 @@ Zac Efron,Zendaya - Rewrite The Stars - 邬瑞凝 √
 
 队长 - 我追不上以前那个发光的自己了 - 每日推荐 √
 
-苏运莹 - 月下 - 李柳玉丹
+苏运莹 - 月下 - 李柳玉丹 √
 
-Tommee Profitt,Wondra - I'm Not Afraid - 每日推荐
+Tommee Profitt,Wondra - I'm Not Afraid - 每日推荐 √
 
-阳花,杨世贸 - 梦回古城 - 每日推荐
+阳花,杨世贸 - 梦回古城 - 每日推荐 √
 
-张韶涵 - 隐形的翅膀 - 每日推荐
+张韶涵 - 隐形的翅膀 - 每日推荐 √
 
-Secret Garden - Anticipation - 每日推荐
+Secret Garden - Anticipation - 每日推荐 √
