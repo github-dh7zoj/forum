@@ -10,7 +10,7 @@ tags:
     - 官方
 ---
 
-最后更新时间: 27 Dec 2023 22:00
+最后更新时间: 01 Jan 2024 20:00
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -784,3 +784,11 @@ Tommee Profitt,Wondra - I'm Not Afraid - 每日推荐 √
 张韶涵 - 隐形的翅膀 - 每日推荐 √
 
 Secret Garden - Anticipation - 每日推荐 √
+
+周深 - 浮光 - 每日推荐
+
+周深 - 化身孤岛的鲸 - 每日推荐
+
+*周深 - Unstoppable - 2023哔哩哔哩最美的夜单品 - 每日推荐
+
+*Alan Walker,黄子弘凡,洪之光,李昂星,阿达娃 - 友谊地久天长 - 每日推荐
