@@ -792,3 +792,5 @@ Secret Garden - Anticipation - 每日推荐 √
 *周深 - Unstoppable - 2023哔哩哔哩最美的夜单品 - 每日推荐
 
 *Alan Walker,黄子弘凡,洪之光,李昂星,阿达娃 - 友谊地久天长 - 每日推荐
+
+宗次郎 - 故乡的原风景 - 每日推荐
