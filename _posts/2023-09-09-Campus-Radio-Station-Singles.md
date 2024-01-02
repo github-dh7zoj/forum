@@ -10,7 +10,7 @@ tags:
     - 官方
 ---
 
-最后更新时间: 01 Jan 2024 20:00
+最后更新时间: 02 Jan 2024 22:30
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -719,15 +719,15 @@ Alan Walker,宋雨琦,(G)I-DLE - Fire! (feat. YUQI ((G)I-DLE), JVKE) - 每日推
 
 马嘉祺 - 狼(Live) - 傅瑾渲 √
 
-高宾艺术团交响乐团,ZZMUSIC跨界交响大乐团 - 友谊地久天长 - 每日推荐
+高宾艺术团交响乐团,ZZMUSIC跨界交响大乐团 - 友谊地久天长 - 每日推荐 √
 
-杨世贸,Crazy Bucket 陈楒潼,Dk澄 - 花灯俏 (Waffles Remix) - 每日推荐
+杨世贸,Crazy Bucket 陈楒潼,Dk澄 - 花灯俏 (Waffles Remix) - 每日推荐 √
 
-李玉刚,Kirsty刘瑾睿 - LaoShui Edit X《若把你 · 声声慢》- 2022最美的夜 bilibili晚会 二创 - 每日推荐
+李玉刚,Kirsty刘瑾睿 - LaoShui Edit X《若把你 · 声声慢》- 2022最美的夜 bilibili晚会 二创 - 每日推荐 √
 
-接个吻，开一枪,火鸡,吕口口 - 春风十里报新年 - 每日推荐
+接个吻，开一枪,火鸡,吕口口 - 春风十里报新年 - 每日推荐 √
 
-Theiaの阿旋酱 - Iridescent（彩虹色） - 每日推荐
+Theiaの阿旋酱 - Iridescent（彩虹色） - 每日推荐 √
 
 张韶涵 - 阿刁 (Live) - 每日推荐 √
 
@@ -785,12 +785,16 @@ Tommee Profitt,Wondra - I'm Not Afraid - 每日推荐 √
 
 Secret Garden - Anticipation - 每日推荐 √
 
-周深 - 浮光 - 每日推荐
+周深 - 浮光 - 每日推荐 √
 
-周深 - 化身孤岛的鲸 - 每日推荐
+周深 - 化身孤岛的鲸 - 每日推荐 √
 
-*周深 - Unstoppable - 2023哔哩哔哩最美的夜单品 - 每日推荐
+*周深 - Unstoppable - 2023哔哩哔哩最美的夜单品 - 每日推荐 √
 
-*Alan Walker,黄子弘凡,洪之光,李昂星,阿达娃 - 友谊地久天长 - 2023哔哩哔哩最美的夜单品 - 每日推荐
+*Alan Walker,黄子弘凡,洪之光,李昂星,阿达娃 - 友谊地久天长 - 2023哔哩哔哩最美的夜单品 - 每日推荐 √
 
-宗次郎 - 故乡的原风景 - 每日推荐
+宗次郎 - 故乡的原风景 - 每日推荐 √
+
+Taylor Swift - Wonderland - 殷源源
+
+太一 - 大幸运术 - 秦勤
