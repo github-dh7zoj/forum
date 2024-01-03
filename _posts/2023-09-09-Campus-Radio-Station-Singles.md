@@ -10,7 +10,7 @@ tags:
     - 官方
 ---
 
-最后更新时间: 02 Jan 2024 22:30
+最后更新时间: 03 Jan 2024 21:40
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -399,7 +399,7 @@ NUANHAO,MINGYANG - Lukas Graham-7 Years（NUANHAO ／ MINGYANG remix） - 每日
 
 水禹,风范 - 少年，请去更高的地方（《百万Up学神天天演我》原创同人曲） - 每日推荐 √
 
-共青团中央,奇然,词者lyrics - 破浪 - 每日推荐
+共青团中央,奇然,词者lyrics - 破浪 - 每日推荐 √
 
 周深 - 睡个好觉 - 好眠夜主题曲 - 每日推荐 √
 
@@ -411,7 +411,7 @@ Michael Schulte - Back to the Start - 每日推荐 √
 
 共青团中央,JuggShots_RADI8,Windapaper_RADI8 - 向前飞 - 每日推荐 √
 
-田震 - 风雨彩虹铿锵玫瑰 - 共青团中央 2022年2月6日推荐
+田震 - 风雨彩虹铿锵玫瑰 - 共青团中央 2022年2月6日推荐 √
 
 周深 - 请笃信一个梦 - 每日推荐 √
 
@@ -795,6 +795,16 @@ Secret Garden - Anticipation - 每日推荐 √
 
 宗次郎 - 故乡的原风景 - 每日推荐 √
 
-Taylor Swift - Wonderland - 殷源源
+Taylor Swift - Wonderland - 殷源源 √
 
-太一 - 大幸运术 - 秦勤
+太一 - 大幸运术 - 秦勤 √
+
+Em Beihold - Painful Truth - 殷源源
+
+胡彦斌 - 月光 - 动画《秦时明月》主题曲 - 邬佳裕
+
+Yetep,Afinity,Micah Martin - Never Go Back - 每日推荐
+
+Sia,SLATER - Unstoppable (Sped Up) - 每日推荐
+
+周深 - 光亮 - 大型纪录片《紫禁城》主题歌 - 陈欣瑜
