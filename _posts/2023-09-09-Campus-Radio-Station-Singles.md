@@ -10,7 +10,7 @@ tags:
     - 官方
 ---
 
-最后更新时间: 03 Jan 2024 21:40
+最后更新时间: 04 Jan 2024 21:45
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -799,12 +799,24 @@ Taylor Swift - Wonderland - 殷源源 √
 
 太一 - 大幸运术 - 秦勤 √
 
-Em Beihold - Painful Truth - 殷源源
+Em Beihold - Painful Truth - 殷源源 √
 
-胡彦斌 - 月光 - 动画《秦时明月》主题曲 - 邬佳裕
+胡彦斌 - 月光 - 动画《秦时明月》主题曲 - 邬佳裕 √
 
-Yetep,Afinity,Micah Martin - Never Go Back - 每日推荐
+Yetep,Afinity,Micah Martin - Never Go Back - 每日推荐 √
 
-Sia,SLATER - Unstoppable (Sped Up) - 每日推荐
+Sia,SLATER - Unstoppable (Sped Up) - 每日推荐 √
 
-周深 - 光亮 - 大型纪录片《紫禁城》主题歌 - 陈欣瑜
+周深 - 光亮 - 大型纪录片《紫禁城》主题歌 - 陈欣瑜 √
+
+周深 - 浓情淡如你 - 陈欣瑜
+
+周杰伦 - 圣诞星 (feat. 杨瑞代) - 虞可欣
+
+叱叱吃 - Blame It On The Kids - 殷源源
+
+小瀬村晶 - Ahead of Us - 王迁涵
+
+周深 - 月光 (Live版) - 每日推荐
+
+薛之谦 - 演员 - 每日推荐
