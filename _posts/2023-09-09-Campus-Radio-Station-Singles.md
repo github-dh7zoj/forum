@@ -10,7 +10,7 @@ tags:
     - 官方
 ---
 
-最后更新时间: 07 Jan 2024 18:00
+最后更新时间: 08 Jan 2024 21:20
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -817,14 +817,24 @@ Sia,SLATER - Unstoppable (Sped Up) - 每日推荐 √
 
 小瀬村晶 - Ahead of Us - 王迁涵 √
 
-周深 - 月光 (Live版) - 每日推荐
+周深 - 月光 (Live版) - 每日推荐 √
 
 薛之谦 - 演员 - 每日推荐 √
 
-Alexandra Lilly - A Matter of Time - 秦勤
+Alexandra Lilly - A Matter of Time - 秦勤 √
 
-接个吻，开一枪,沈以诚,薛黛霏 - 失眠飞行 - 王子奥
+接个吻，开一枪,沈以诚,薛黛霏 - 失眠飞行 - 王子奥 √
 
-郑润泽 - 瞬 - 邬佳裕
+郑润泽 - 瞬 - 邬佳裕 √
 
-王力宏 - 花田错 - 姚芊羽
+王力宏 - 花田错 - 姚芊羽 √
+
+陈奕迅 - 好久不见 - 夏紫怡
+
+摩登兄弟刘宇宁 - 奉上 (影视剧《一念关山》片头主题曲) - 吴婷婷
+
+Alec Benjamin - Let Me Down Slowly - 网易云音乐合伙人第36期评分TOP3 - 每日推荐
+
+Anson Seabra - Keep Your Head Up Princess - 每日推荐
+
+ONER - 艳 - 励嘉樱
