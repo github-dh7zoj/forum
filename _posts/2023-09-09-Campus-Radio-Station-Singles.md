@@ -12,7 +12,7 @@ tags:
 
 <script type='text/javascript' src='https://www.wjx.top/handler/jqemed.ashx?activity=mBTrQe2&width=760&source=iframe'></script>
 
-最后更新时间: 16 Jan 2024 20:30
+最后更新时间: 17 Jan 2024 21:55
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -53,7 +53,7 @@ Broiler,Imagine Dragons - Shots (Broiler Remix) - 俞冠羽 √
 
 南征北战NZBZ - 骄傲的少年 - 动画《那年那兔那些事儿》第二季片尾曲 - 每日推荐 √
 
-国风堂,司南 - 吹灭小山河 - 每日推荐
+国风堂,司南 - 吹灭小山河 - 每日推荐 √
 
 Pianoboy高至豪 - The truth that you leave - 每日推荐
 
@@ -141,7 +141,7 @@ m-taku - Komorebi - 严皓凯 √
 
 TFBOYS - 不完美小孩 - 洪睿晗 √
 
-Da-iCE - Two As One - 剧场版《欧布奥特曼 羁绊之力借我一用!》主题曲 - 俞冠羽
+Da-iCE - Two As One - 剧场版《欧布奥特曼 羁绊之力借我一用!》主题曲 - 俞冠羽 √
 
 Snigellin - When I see the light at that Time - 余芊萱 √
 
@@ -889,10 +889,18 @@ sapientdream,Slushii - Past Lives - 余芊萱 √
 
 李玖哲 - 不只是场梦 - 邬佳裕 √
 
-Kenny G - You're Beautiful - 每日推荐
+Kenny G - You're Beautiful - 每日推荐 √
 
 Kenny G - The Moon Represents My Heart - 每日推荐
 
-JENNIE - You & Me  - 吴婷婷
+JENNIE - You & Me  - 吴婷婷 √
 
-Landon Austin - Stay Awhile - 每日推荐
+Landon Austin - Stay Awhile - 每日推荐 √
+
+超人战士 - Basim-Stjæler Mit Hjerte（纯音乐）（超人战士 remix） - 姚芊羽
+
+Taylor Swift,The Civil Wars - Safe & Sound - 郭哲辰
+
+马嘉祺 - 盛夏光年 (Live) - 傅瑾渲
+
+周深 - 明天的世界更美好 - 每日推荐
