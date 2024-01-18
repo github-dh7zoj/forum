@@ -12,7 +12,7 @@ tags:
 
 <script type='text/javascript' src='https://www.wjx.top/handler/jqemed.ashx?activity=mBTrQe2&width=760&source=iframe'></script>
 
-最后更新时间: 17 Jan 2024 21:55
+最后更新时间: 18 Jan 2024 21:30
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -891,7 +891,7 @@ sapientdream,Slushii - Past Lives - 余芊萱 √
 
 Kenny G - You're Beautiful - 每日推荐 √
 
-Kenny G - The Moon Represents My Heart - 每日推荐
+Kenny G - The Moon Represents My Heart - 每日推荐 √
 
 JENNIE - You & Me  - 吴婷婷 √
 
@@ -899,8 +899,16 @@ Landon Austin - Stay Awhile - 每日推荐 √
 
 超人战士 - Basim-Stjæler Mit Hjerte（纯音乐）（超人战士 remix） - 姚芊羽
 
-Taylor Swift,The Civil Wars - Safe & Sound - 郭哲辰
+Taylor Swift,The Civil Wars - Safe & Sound - 郭哲辰 √
 
-马嘉祺 - 盛夏光年 (Live) - 傅瑾渲
+马嘉祺 - 盛夏光年 (Live) - 傅瑾渲 √
 
-周深 - 明天的世界更美好 - 每日推荐
+周深 - 明天的世界更美好 - 每日推荐 √
+
+Lost Sky,ANGELPLAYA,Chris Linton - Unbreakable - 每日推荐
+
+Vicetone,Meron Ryan - Walk Thru Fire - 李柳玉丹
+
+唐伯虎Annie - 戏子花落去 - 夏雨涵
+
+等什么君(邓寓君) - 长街烟火 - 夏雨涵
