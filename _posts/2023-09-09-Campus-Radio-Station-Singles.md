@@ -12,7 +12,7 @@ tags:
 
 <script type='text/javascript' src='https://www.wjx.top/handler/jqemed.ashx?activity=mBTrQe2&width=760&source=iframe'></script>
 
-最后更新时间: 22 Jan 2024 22:00
+最后更新时间: 23 Jan 2024 21:45
 
 查看 下载歌曲进入 [LaoShui的存储站](https://cloud.dh7zoj.top)
 
@@ -68,8 +68,6 @@ Pianoboy高至豪 - The truth that you leave - 每日推荐
 周深 - 征途 - 每日推荐 √
 
 张韶涵,刘惜君 - 如愿 (Live) - 每日推荐 √
-
-丹正母子 - 乌兰巴托的夜 (丹正母子版) - 余宣萱
 
 刘明湘 - 漂洋过海来看你 - 余宣萱 √
 
@@ -177,8 +175,6 @@ Imagine Dragons - Demons - 邬瑞凝 √
 
 Vicetone,Cozi Zuehlsdorff - Nevada - 赖致远 √
 
-Dixie Flatline,初音ミク - Decade - 郏扬菡
-
 Zedd,Jon Bellion - Beautiful Now - 黄宇翔 √
 
 梦然 - 是你 - 每日推荐 √
@@ -201,9 +197,9 @@ MANTA - 断臂的维纳斯 - 张琪乔 √
 
 Toby Fox - His Theme ▸ Sprightly (DJ20001S1版) - 陈志豪 √
 
-YOASOBI,Midories - The Swallow (feat. Midories) - 毛睿一
+YOASOBI,Midories - The Swallow (feat. Midories) - 毛睿一 √
 
-Taylor Swift - You Need To Calm Down - 胡仟渝
+Taylor Swift - You Need To Calm Down - 胡仟渝 √
 
 周深 - Rubia - 陈依萌 √
 
@@ -263,7 +259,7 @@ ANU - 飞 - 电视剧《少年派2》片头曲 - 每日推荐 √
 
 周深 - 浮游【录音棚版本】 - 每日推荐 √
 
-张也、周深 - 灯火里的中国 - 陈欣瑜
+张也、周深 - 灯火里的中国 - 陈欣瑜 √
 
 李鑫一 - 无人之境 - 每日推荐 √
 
@@ -921,12 +917,22 @@ The Kid LAROI、Justin Bieber - Stay (Explicit) - 李柳玉丹 √
 
 Ryan Farish - Fireflies - 每日推荐 √
 
-筷子兄弟 - 小苹果 - 电影《老男孩猛龙过江》宣传曲 - 每日推荐
+筷子兄弟 - 小苹果 - 电影《老男孩猛龙过江》宣传曲 - 每日推荐 √
 
-轻音乐馆 - 缓慢生活 - 每日推荐
+轻音乐馆 - 缓慢生活 - 每日推荐 √
 
-Lil Ghost小鬼 - 别叫我达芬奇 - 王少昊
+Lil Ghost小鬼 - 别叫我达芬奇 - 王少昊 √
 
-Lovelyz - FALLIN’ - 姚芊羽
+Lovelyz - FALLIN’ - 姚芊羽 √
 
 J4CKO,Baiden Holland - Through The Night - 每日推荐
+
+阿YueYue - 予君书 - 朱彦伊
+
+宇多田ヒカル - One Last Kiss - 王迁涵
+
+太一 - （笑） - 徐若岚
+
+范世錡 - 落在海平面的微光 - 余默浔
+
+Maroon 5,J. Cole - Animals (Remix) - 侯彦竹
