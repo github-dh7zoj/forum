@@ -10,6 +10,10 @@ tags:
 - 官方
 ---
 
+截止2023/01/25 广播站歌单内收录的所有歌曲已全部安排播放 本学期自2023/09/08开始播放歌曲共收录播放歌曲462首 歌单已停止收录等待数据处理后再进行开放
+
+---
+
 <script type='text/javascript' src='https://www.wjx.top/handler/jqemed.ashx?activity=mBTrQe2&width=760&source=iframe'></script>
 
 最后更新时间: 25 Jan 2024 21:00
@@ -940,7 +944,3 @@ Maroon 5,J. Cole - Animals (Remix) - 侯彦竹 √
 TF家族,TF家族-左航 - Hey Left - 夏瑜璟 √
 
 凤凰传奇 - 好运来 - 每日推荐 √
-
----
-
-截止2023/01/25 广播站歌单内收录的所有歌曲已全部安排播放 本学期自2023/09/08开始播放歌曲共收录播放歌曲462首 歌单已停止收录等待数据处理后再进行开放
