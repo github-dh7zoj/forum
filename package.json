@@ -1,14 +1,14 @@
 {
-    "name": "w-blog",
-    "title": "Will Wang Blog",
-    "author": "Will Wang <wzbcode@163.com>",
-    "version": "1.7.0",
-    "homepage": "https://flyingwzb.github.io",
+    "name": "dh7z-forum",
+    "title": "Dh7z Forum",
+    "author": "LaoShui <3048087505@qq.com>",
+    "version": "1.0.0",
+    "homepage": "https://forum.dh7zoj.top",
     "repository": {
         "type": "git",
-        "url": "https://github.com/flyingwzb/flyingwzb.github.io"
+        "url": "https://github.com/forum-dh7zoj/forum-dh7zoj.github.io"
     },
-    "bugs": "https://github.com/flyingwzb/flyingwzb.github.io/issues",
+    "bugs": "https://github.com/forum-dh7zoj/forum-dh7zoj.github.io/issues",
     "devDependencies": {
         "grunt": "~0.4.5",
         "grunt-contrib-less": "~0.11.4",
