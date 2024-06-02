@@ -1,5 +1,6 @@
 <!-- Footer -->
 <footer>
+    <div id="countdown"></div> <!-- 中考倒计时By LaoShui -->
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
@@ -23,6 +24,116 @@
         </div>
     </div>
 </footer>
+
+<style>
+    @keyframes fadeInBlur {
+        0% {
+            opacity: 0;
+            filter: blur(5px);
+        }
+        100% {
+            opacity: 1;
+            filter: blur(0);
+        }
+    }
+
+    #countdown {
+        position: fixed;
+        top: 10px;
+        right: 10px;
+        font-size: 1.5em;
+        color: #333;
+        background-color: rgba(255, 255, 255, 0.8);
+        padding: 10px 20px;
+        border-radius: 5px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+
+        animation: fadeInBlur 1.5s ease-in-out 1;
+    }
+</style>
+
+    <div class="footer__extra-link clearfix">
+      <div class="footer__extra-left">
+        <ol class="clearfix">
+          <li class="footer__extra-link-item"><a href="http://47.101.133.153/paste/create">{{ _('云粘贴板') }}</a></li>
+          <li class="footer__extra-link-item"><a href="https://docs.dh7zoj.top">{{ _('站点文档') }}</a></li>
+          <li class="footer__extra-link-item"><a href="{{ url('wiki_help') }}">{{ _('Help') }}</a></li>
+          <li class="footer__extra-link-item"><a href="{{ url('api') }}">{{ _('API') }}</a></li>
+          <li class="footer__extra-link-item nojs--hide" data-dropdown-target="#menu-footer-lang">
+            <span><span class="icon icon-global"></span> Language <span class="icon icon-expand_less"></span></span>
+            <ol class="dropdown-target menu" id="menu-footer-lang">
+            {%- for k, v in model.setting.SETTINGS_BY_KEY['viewLang'].range -%}
+              <li class="menu__item"><a class="menu__link" href="{{ url('switch_language', lang=k) }}">{{ v }}</a></li>
+            {%- endfor -%}
+            </ol>
+          </li>
+          <li class="footer__extra-link-item">
+            {% if handler.session.legacy %}
+              <a href="/legacy">{{ _('Standard mode') }}</a>
+            {% else %}
+              <a href="/legacy?legacy=true">{{ _('Legacy mode') }}</a>
+            {% endif %}
+          </li>
+          <li class="footer__extra-link-item nojs--hide" data-dropdown-target="#menu-footer-theme">
+            <span><span class="icon icon-global"></span> {{ _('Theme') }} <span class="icon icon-expand_less"></span></span>
+            <ol class="dropdown-target menu" id="menu-footer-theme">
+              <li class="menu__item"><a class="menu__link" href="{{ url('set_theme', theme='light') }}">{{ _('Light') }}</a></li>
+              <li class="menu__item"><a class="menu__link" href="{{ url('set_theme', theme='dark') }}">{{ _('Dark') }}</a></li>
+            </ol>
+          </li>
+        </ol>
+      </div>
+      <div class="footer__extra-right">
+        <ol class="clearfix">
+          {%- for html in (handler.domain.ui.footer_extra_html|default('')).split('\n') -%}
+            <li class="footer__extra-link-item">{{ html|safe }}</li>
+          {%- endfor -%}
+          {%- for html in (model.system.get('ui-default.footer_extra_html')|default('')).split('\n') -%}
+            <li class="footer__extra-link-item">{{ html|safe }}</li>
+          {%- endfor -%}
+          <li class="footer__extra-link-item">Worker {{ process.env.NODE_APP_INSTANCE }} in {{ Date.now() - handler.args.__start }}ms</li>
+          <!-- Prepare {{ handler.args.__prepareDone - handler.args.__prepare }}ms -->
+          <!-- Method {{ handler.args.__methodDone - handler.args.__method }}ms -->
+          <li class="footer__extra-link-item">Powered by <a href="https://hydro.js.org">Hydro</a> Modified by 沈夏世轩 | 定海七中OJ 240602</li>
+        </ol>
+      </div>
+    </div>
+  </div></div>
+</div>
+<script>
+    // 设置目标日期
+    const targetDate = new Date("June 22, 2024 09:00:00").getTime();
+
+    // 更新倒计时
+    function updateCountdown() {
+        // 获取当前时间
+        const now = new Date().getTime();
+        
+        // 计算距离目标日期的时间差
+        const distance = targetDate - now;
+
+        // 如果已经过了目标日期，显示提示信息
+        if (distance < 0) {
+            document.getElementById("countdown").innerHTML = "中考已开始！";
+            return;
+        }
+
+        // 转换时间差为天、小时、分钟和秒
+        const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+        const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+        const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+        const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+        // 显示倒计时
+        document.getElementById("countdown").innerHTML = `距中考还有 ${days} 天 ${hours} 小时 ${minutes} 分钟 ${seconds} 秒`;
+    }
+
+    // 每秒更新一次倒计时
+    setInterval(updateCountdown, 1000);
+
+    // 页面加载完成时初始化倒计时
+    window.onload = updateCountdown;
+</script>
 
 <!--网站数据统计-->
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
